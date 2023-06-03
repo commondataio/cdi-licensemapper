@@ -1,0 +1,1556 @@
+- id: cc-by
+  text: cc-by
+- id: cc-by
+  text: http://www.opendefinition.org/licenses/cc-by
+- id: cc-by
+  text: Creative Commons Attribution
+- id: unspecified
+  text: None
+- id: dl-de-by-2.0
+  text: dl-de-by-2.0
+- id: dl-de-by-2.0
+  text: http://www.govdata.de/dl-de/by-2-0
+- id: dl-de-by-2.0
+  text: Datenlizenz Deutschland - Namensnennung - 2.0
+- id: unspecified
+  text: notspecified
+- id: unspecified
+  text: License not specified
+- id: unspecified
+  text: ''
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/4.0/
+- id: cc-by
+  text: "Creative Commons Namensnennung \u2013 4.0 International (CC BY 4.0)"
+- id: cc-by
+  text: "F\xFCr die Nutzung der Daten ist die Creative Commons (CC BY 4.0) \u2013
+    Namensnennung 4.0 International anzuwenden. Die Lizenz ist \xFCber http://creativecommons.org/licenses/by/4.0
+    abrufbar. Der Quellenvermerk lautet \"\xA9 GeoBasis-DE/LVermGeo SH/CC BY 4.0\""
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/
+- id: uk-ogl
+  text: uk-ogl
+- id: uk-ogl
+  text: http://reference.data.gov.uk/id/open-government-licence
+- id: uk-ogl
+  text: UK Open Government Licence (OGL)
+- id: cc-by-sa
+  text: CC-BY-SA-4.0
+- id: cc-by-sa
+  text: https://creativecommons.org/licenses/by-sa/4.0/
+- id: cc-by-sa
+  text: Creative Commons Attribution Share-Alike 4.0
+- id: cc-by
+  text: CC-BY-4.0
+- id: uk-ncgl
+  text: Non-Commercial Government Licence for public sector information
+- id: uk-ncgl
+  text: uk-ncgl
+- id: uk-ncgl
+  text: http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/non-commercial-government-licence.htm
+- id: odc-by
+  text: odc-by
+- id: odc-by
+  text: http://www.opendefinition.org/licenses/odc-by
+- id: odc-by
+  text: Open Data Commons Attribution License
+- id: dl-de-by-2.0
+  text: https://www.govdata.de/dl-de/by-2-0
+- id: cc-by
+  text: Creative Commons Attribution 4.0
+- id: cc-by
+  text: Creative Commons Namensnennung 4.0 International
+- id: cc-by
+  text: cc-by-40
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/deed.de
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International Licence
+- id: dl-de-by-2.0
+  text: Datenlizenz Deutschland Namensnennung 2.0
+- id: ogl-canada-2.0
+  text: Open Government Licence - Canada
+- id: cc-by-sa
+  text: cc-by-sa
+- id: cc-by
+  text: Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)
+- id: etalab-2.0
+  text: Licence Ouverte / Open Licence Version 2.0  https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
+- id: ogl-canada-2.0
+  text: http://open.canada.ca/en/open-government-licence-canada
+- id: dl-de-zero-2.0
+  text: https://www.govdata.de/dl-de/zero-2-0
+- id: dl-de-zero-2.0
+  text: "Datenlizenz Deutschland \u2013 Zero \u2013 Version 2.0"
+- id: unspecified
+  text: n/a
+- id: etalab
+  text: Licence Ouverte 1.0 http://www.data.gouv.fr/Licence-Ouverte-Open-Licence.
+- id: cc-nc
+  text: cc-nc
+- id: cc-by-nc
+  text: http://creativecommons.org/licenses/by-nc/2.0/
+- id: cc-zero
+  text: cc-zero
+- id: cc-zero
+  text: http://www.opendefinition.org/licenses/cc-zero
+- id: cc-zero
+  text: Creative Commons CCZero
+- id: dl-de-zero-2.0
+  text: Datenlizenz Deutschland - Namensnennung - Version 2.0
+- id: us-pd
+  text: us-pd
+- id: etalab-2.0
+  text: https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
+- id: etalab-2.0
+  text: Licence Ouverte v2.0 (Etalab)
+- id: cc-by-sa
+  text: http://creativecommons.org/licenses/by-sa/4.0/
+- id: unspecified
+  text: http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/conditionsUnknown
+- id: odc-odbl
+  text: odc-odbl
+- id: odc-odbl
+  text: http://www.opendefinition.org/licenses/odc-odbl
+- id: cc-by
+  text: Creative Commons Attribution International
+- id: cc-by
+  text: Creative Commons Attribution 3.0 New Zealand
+- id: cc-by
+  text: CC-BY-NZ-3.0
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/3.0/nz/
+- id: odc-odbl
+  text: Open Data Commons Open Database License (ODbL)
+- id: cc-by
+  text: cc-by-4.0
+- id: ogl-canada-2.0
+  text: https://open.canada.ca/en/open-government-licence-canada
+- id: public-domain
+  text: other-pd
+- id: us-pd
+  text: http://www.usa.gov/publicdomain/label/1.0/
+- id: cc-by
+  text: CC-BY (4.0)
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/4.0/deed.nl
+- id: public-domain
+  text: Other (Public Domain)
+- id: cc-by-nc
+  text: http://creativecommons.org/licenses/by-nc/3.0/de/
+- id: cc-by-nc
+  text: 'Creative Commons: Namensnennung - Keine kommerzielle Nutzung 3.0 Deutschland'
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/4.0/deed.it
+- id: odc-pddl
+  text: The copyright of materials derived from the British Geological Survey's work
+    is vested in the Natural Environment Research Council [NERC]. No part of this
+    work may be reproduced or transmitted in any form or by any means, or stored in
+    a retrieval system of any nature, without the prior permission of the copyright
+    holder, via the BGS Intellectual Property Rights Manager. Use by customers of
+    information provided by the BGS, is at the customer's own risk. In view of the
+    disparate sources of information at BGS's disposal, including such material donated
+    to BGS, that BGS accepts in good faith as being accurate, the Natural Environment
+    Research Council (NERC) gives no warranty, expressed or implied, as to the quality
+    or accuracy of the information supplied, or to the information's suitability for
+    any use. NERC/BGS accepts no liability whatever in respect of loss, damage, injury
+    or other occurence however caused.
+- id: odc-pddl
+  text: http://www.opendefinition.org/licenses/odc-pddl
+- id: odc-pddl
+  text: odc-pddl
+- id: etalab
+  text: https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf
+- id: cc-by-sa
+  text: http://www.opendefinition.org/licenses/cc-by-sa
+- id: cc-by-sa
+  text: Creative Commons Attribution Share-Alike
+- id: dl-de-zero-2.0
+  text: "Lizenz: dl-de-zero-2.0 - Datenlizenz Deutschland \u2013 Zero \u2013 Version
+    2.0 - https://www.govdata.de/dl-de/zero-2-0"
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/4.0
+- id: dl-de-by-2.0
+  text: 'Nutzungsbedingungen: (c) Statistisches Bundesamt, Wiesbaden 2023, Genesis-Online;
+    Datenlizenz by-2-0'
+- id: cc-by
+  text: CC BY 4.0
+- id: unspecified
+  text: License Not Specified
+- id: cc-zero
+  text: CC0-1.0
+- id: odc-pddl
+  text: Open Data Commons Public Domain Dedication and Licence (PDDL)
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/2.5/au/
+- id: odc-odbl
+  text: Open Database License (ODC-ODbL)
+- id: odc-odbl
+  text: hdx-odc-odbl
+- id: cc-by
+  text: 'Creative Commons: Namensnennung - Keine kommerzielle Nutzung - Keine Bearbeitungen
+    3.0 Deutschland'
+- id: etalab
+  text: Licence Ouverte (Etalab)
+- id: cc-nc-nd
+  text: http://creativecommons.org/licenses/by-nc-nd/3.0/de/
+- id: cc-zero
+  text: CC-0 (1.0)
+- id: cc-zero
+  text: http://creativecommons.org/publicdomain/zero/1.0/deed.nl
+- id: iodl-2.0
+  text: Italian Open Data License 2.0 (IODL 2.0)
+- id: etalab-2.0
+  text: lov2
+- id: cc-zero
+  text: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+- id: unspecified
+  text: unspecified
+- id: etalab
+  text: fr-lo
+- id: odc-odbl
+  text: Open Database License (ODbL)
+- id: cc-zero
+  text: Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)
+- id: iodl-2.0
+  text: iodl2
+- id: dl-de-zero-2.0
+  text: "kostenfreie Nutzung der Daten ist nur f\xFCr interne Zwecke erlaubt. - Lizenz:
+    dl-de-zero-2.0 - Datenlizenz Deutschland \u2013 Zero \u2013 Version 2.0 - https://www.govdata.de/dl-de/zero-2-0"
+- id: odc-odbl
+  text: http://opendatacommons.org/licenses/odbl/
+- id: cc-nc
+  text: Creative Commons Non-Commercial (Any)
+- id: cc-by
+  text: Creative Commons Attribution for Intergovernmental Organisations
+- id: cc-by
+  text: cc-by-igo
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/3.0/igo/legalcode
+- id: public-domain
+  text: Publiek domein
+- id: public-domain
+  text: http://creativecommons.org/publicdomain/mark/1.0/deed.nl
+- id: cc-by
+  text: 'Creative Commons: Namensnennung 3.0 Deutschland'
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/3.0/au/
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/3.0/de/
+- id: dl-de-by-2.0
+  text: ' Datenlizenz Deutschland - Namensnennung - Version 2.0 '
+- id: iodl-2.0
+  text: License IODL v2.0
+- id: unspecified
+  text: No licence
+- id: unspecified
+  text: /nolicence
+- id: cc-by
+  text: 'Lizenz: cc-by-3.0 - Creative Commons: Namensnennung 3.0 Deutschland - http://creativecommons.org/licenses/by/3.0/de/'
+- id: cc-by
+  text: Creative Commons Attribution 3.0 Australia
+- id: etalab-2.0
+  text: Licence Ouverte / Open Licence Version 2.0 https://www.etalab.gouv.fr/licence-ouverte-open-licence
+- id: cc-by
+  text: CC-BY-2.5-AU
+- id: cc-by
+  text: Creative Commons Attribution 2.5 Australia (CC BY 2.5 AU)
+- id: cc-by
+  text: 'This material is licensed under a Creative Commons Attribution 3.0 New Zealand
+    (CC BY 3.0) Licence. For more details visit http://creativecommons.org/licenses/by/3.0/nz.
+    Where the data are used in a figure GNS Science requests attribution in the following
+    manner: (C) GNS Science 2012. Where reference to the data is to be included in
+    a Reference List the following citation is suggested: QMAP seamless digital data
+    2012. Geological Map of New Zealand 1:250 000. Lower Hutt, New Zealand. GNS Science.'
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International (CC BY 4.0) Licence (https://creativecommons.org/licenses/by/4.0/).
+- id: dl-de-zero-2.0
+  text: dl-de-zero-2.0
+- id: cc-by
+  text: cc-by-4
+- id: dl-de-by-2.0
+  text: Datenlizenz Deutschland Namensnennung Version 2.0
+- id: dl-de-zero-2.0
+  text: "Dieser Datensatz kann gem\xE4\xDF der \"Datenlizenz Deutschland \u2013 Zero
+    \u2013 Version 2.0\" (https://www.govdata.de/dl-de/zero-2-0) genutzt werden."
+- id: cc-by
+  text: CC BY
+- id: odc-odbl
+  text: http://opendefinition.org/licenses/odc-odbl/
+- id: cc-by-nc-sa
+  text: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO
+- id: cc-by
+  text: CC-BY-NC-SA-3.0-IGO
+- id: cc-by-sa-nc
+  text: https://creativecommons.org/licenses/by-nc-sa/3.0/igo
+- id: cc-by
+  text: Creative Commons Attribution 2.5 Australia
+- id: cc-by
+  text: cc-by-2.5
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/3.0/at/deed.de
+- id: cc-by
+  text: 'Lizenz: cc-nc-3.0 - Creative Commons: Namensnennung - Keine kommerzielle
+    Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/'
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International License
+- id: public-domain
+  text: These data may be redistributed and used without restriction.
+- id: dl-de-by-2.0
+  text: '                (https://www.govdata.de/dl-de/by-2-0) genutzt werden.'
+- id: cc-by-nc
+  text: CC BY-NC 4.0
+- id: dl-de-by-2.0
+  text: dl-by-de/2.0
+- id: etalab-2.0
+  text: Licence Ouverte Version 2.0
+- id: etalab
+  text: https://www.etalab.gouv.fr/licence-ouverte-open-licence
+- id: cc-by
+  text: Creative Commons Attribution (CC-BY)
+- id: cc-zero
+  text: CC0 1.0
+- id: cc-by-nc-nd
+  text: "Das Anschauen (\"Viewing\") in der Online-Anwendung des Geoportal.rlp ist
+    kostenfrei. Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeindeverwaltung
+    Alzey-Land bzw. der plangebenden Ortsgemeinde ist ausdr\xFCcklich ausgeschlossen.
+    Eine systematische Nutzung des Produktes, welche darauf ausgerichtet ist, einen
+    Sekund\xE4rdatenbestand zu erstellen, ist ausdr\xFCcklich untersagt. Die Nutzung
+    der Daten aus der Onlineanwendung heraus f\xFCr private Zwecke erfolgt auf eigenes
+    Risiko. Rechtlich verbindlich sind ausschlie\xDFlich die Originalpl\xE4ne, die
+    in den R\xE4umen der Verbandsgemeindeverwaltung Alzey-Land eingesehen werden k\xF6nnen.
+    Bitte nehmen Sie dazu Kontakt mit dem Fachbereich II -Bauen und Umwelt- Herrn
+    Baro oder Frau R\xFCttiger, Verbandsgemeindeverwaltung Alzey-Land auf (06731 409
+    211 oder -213 oder E-Mail: baro.axel@alzey-land.de/ ruettiger.heike@alzey-land.de).
+    \ - Lizenz: cc-by-nc-nd-3.0 - Creative Commons: Namensnennung - Keine kommerzielle
+    Nutzung - Keine Bearbeitungen 3.0 Deutschland - http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+- id: cc-by
+  text: 'Data is made available under a Creative Commons Attribution 4.0 International
+    Licence, please see link. Data is supplied ''as is'' without any warranty or guarantee
+    except as required by law to be given to you. The data may not be free of error,
+    comprehensive, current or appropriate for your particular purpose. You accept
+    all risk and responsibility for its use. ATTRIBUTION STATEMENT: The dataset [Insert-dataset-name-here]
+    downloaded on [Insert-DD-Mmm-YYYY-here] was collected on voyage [Insert-voyage-name-here]
+    by the Marine National Facility.'
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0
+- id: cc-by
+  text: Creative Commons Namensnennung 3.0 Oesterreich
+- id: cc-by
+  text: cc-by-at-30
+- id: us-pd
+  text: https://www.usa.gov/government-works
+- id: ogl-canada-2.0
+  text: Open Government Licence - Canada (http://open.canada.ca/en/open-government-licence-canada)
+- id: odc-pddl
+  text: Open Data Commons Public Domain Dedication and License (PDDL)
+- id: cc-by
+  text: Creative Commons Attribution 3.0 Australia License
+- id: unspecified
+  text: '22'
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- id: dl-de-by-2.0
+  text: 'Lizenz: dl-de-by-2.0 - Datenlizenz Deutschland Namensnennung 2.0 - https://www.govdata.de/dl-de/by-2-0
+    - Quellenvermerk: (c) Stadt Trier (Jahr) / dl-de/by2-0, www.trier.de'
+- id: cc-by-nc-nd
+  text: 'Lizenz: cc-by-nc-nd-3.0 - Creative Commons: Namensnennung - Keine kommerzielle
+    Nutzung - Keine Bearbeitungen 3.0 Deutschland - http://creativecommons.org/licenses/by-nc-nd/3.0/de/'
+- id: cc-by
+  text: Attribution (CC-BY 4.0)
+- id: uk-ogl
+  text: OGL-UK-3.0
+- id: cc-by
+  text: https://www.donneesquebec.ca/fr/licence/#cc-by
+- id: cc-by
+  text: "Creative Commons 4.0 Attribution (CC-BY) licence \u2013 Quebec"
+- id: cc-by
+  text: qc-cc-by
+- id: cc-by-sa
+  text: "Der Dienst und die damit verbundenen Datens\xE4tze stehen unter einer Creative
+    Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Lizenz (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+    Die Namensnennung des Landkreises Nienburg/Weser als Rechteinhaber hat in folgender
+    Weise zu erfolgen: \"Datenquelle: Landkreis Nienburg/Weser, www.lk-nienburg.de\"."
+- id: uk-ogl
+  text: https://eidc.ceh.ac.uk/licences/OGL/plain
+- id: cc-by-sa
+  text: Creative Commons Attribution - Share-Alike (CC-BY-SA)
+- id: etalab
+  text: Licence Ouverte
+- id: odc-by
+  text: Open Data Commons Attribution Licence
+- id: dl-de-by-2.0
+  text: "Deutschland Datenlizenz Version 2.0 mit Namensnennung (dl-de/by-2-0). Haftungshinweis:
+    Die Stadt Celle f\xFChrt die Daten mit der erforderlichen Sorgfalt. F\xFCr die
+    Richtigkeit, Aktualit\xE4t, Vollst\xE4ndigkeit und Qualit\xE4t, sowie Kompatibilit\xE4t
+    und Interoperabilit\xE4t mit den Systemen des Nutzers der zur Verf\xFCgung gestellten
+    Informationen, Daten und Dienste wird die Haftung ausgeschlossen. Von diesem Haftungsausschluss
+    ausgenommen sind gesetzliche Schadensersatzanspr\xFCche f\xFCr die Verletzung
+    des Lebens, des K\xF6rpers und der Gesundheit, sowie die gesetzliche Haftung f\xFCr
+    sonstige Sch\xE4den, soweit diese auf einer vors\xE4tzlichen oder grob fahrl\xE4ssigen
+    Pflichtverletzung beruhen. Bildschirmdarstellungen und Ausdrucke stellen keine
+    rechtsverbindlichen Ausk\xFCnfte oder Ausz\xFCge dar."
+- id: dl-de-by-2.0
+  text: "Nutzungsbedingungen: Deutschland Datenlizenz Version 2.0 mit Namensnennung
+    (dl-de/by-2-0). Haftungshinweis: Die Stadt Celle f\xFChrt die Daten mit der erforderlichen
+    Sorgfalt. F\xFCr die Richtigkeit, Aktualit\xE4t, Vollst\xE4ndigkeit und Qualit\xE4t,
+    sowie Kompatibilit\xE4t und Interoperabilit\xE4t mit den Systemen des Nutzers
+    der zur Verf\xFCgung gestellten Informationen, Daten und Dienste wird die Haftung
+    ausgeschlossen. Von diesem Haftungsausschluss ausgenommen sind gesetzliche Schadensersatzanspr\xFCche
+    f\xFCr die Verletzung des Lebens, des K\xF6rpers und der Gesundheit, sowie die
+    gesetzliche Haftung f\xFCr sonstige Sch\xE4den, soweit diese auf einer vors\xE4tzlichen
+    oder grob fahrl\xE4ssigen Pflichtverletzung beruhen. Bildschirmdarstellungen und
+    Ausdrucke stellen keine rechtsverbindlichen Ausk\xFCnfte oder Ausz\xFCge dar."
+- id: cc-by
+  text: Creative Commons Attribution 2.5 Australia License
+- id: public-domain
+  text: Public Domain
+- id: dl-de-zero-2.0
+  text: "Nutzungsbedingungen WICHTIGE HINWEISE:  Bei der Ver\xF6ffentlichung der Bauleitpl\xE4ne
+    der Verbandsgemeinde Bernkastel-Kues im geoportal.rlp handelt es sich um ein unverbindliches,
+    zus\xE4tzliches Informationsangebot (SEKUND\xC4RDATEN) der Verbandsgemeindeverwaltung
+    Bernkastel-Kues.  F\xFCr die Richtigkeit, Aktualit\xE4t und Vollst\xE4ndigkeit
+    der Inhalte wird von der Verbandsgemeinde Bernkastel-Kues keine Haftung oder Gew\xE4hrleistung
+    \xFCbernommen. Die Verbandsgemeinde haftet nicht f\xFCr Sch\xE4den oder Verluste,
+    welche durch die direkte oder indirekte Nutzung entstehen.  Die Datennutzung aus
+    der Onlineanwendung erfolgt auf eigenes Risiko und ausschlie\xDFlich f\xFCr nicht
+    kommerzielle Zwecke mit Quellenangabe. Eine Weiterverwendung der Inhalte, Ver\xF6ffentlichung,
+    Verkauf oder die Erstellung abgeleiteter Planungen bedarf der schriftlichen Einwilligung
+    der Verbandsgemeinde Bernkastel-Kues.  Rechtlich verbindlich sind ausschlie\xDFlich
+    die originalen Bebauungspl\xE4ne, die im Geb\xE4ude der Verbandsgemeindeverwaltung
+    eingesehen werden k\xF6nnen. Es wird daher ausdr\xFCcklich empfohlen, vor Entscheidungen
+    und insbesondere vor verm\xF6genswirksamen Dispositionen (z.B. Grundst\xFCcksvertr\xE4ge)
+    eine schriftliche Auskunft zu der im jeweiligen Einzelfall beabsichtigten Bauma\xDFnahme
+    bzw. Nutzung (z.B. im Wege einer Bauvoranfrage) einzuholen.  - Lizenz: dl-de-zero-2.0
+    - Datenlizenz Deutschland \u2013 Zero \u2013 Version 2.0 - https://www.govdata.de/dl-de/zero-2-0"
+- id: cc-zero
+  text: http://creativecommons.org/publicdomain/zero/1.0
+- id: cc-by
+  text: "Creative Commons Atribuci\xF3n/Reconocimiento 4.0 Licencia P\xFAblica Internacional
+    \u2014 CC BY 4.0"
+- id: cc-by-sa
+  text: by-sa-40
+- id: cc-by
+  text: "Creative Commons Atribui\xE7\xE3o"
+- id: cc-by
+  text: 'Data is made available under a Creative Commons Attribution 4.0 International
+    Licence, please see link. Data is supplied ''as is'' without any warranty or guarantee
+    except as required by law to be given to you. The data may not be free of error,
+    comprehensive, current or appropriate for your particular purpose. You accept
+    all risk and responsibility for its use. ATTRIBUTION STATEMENT: The dataset [Insert-dataset-name-here]
+    downloaded on [Insert-DD-Mmm-YYYY-here] was provided by CSIRO.'
+- id: cc-zero
+  text: https://creativecommons.org/publicdomain/zero/1.0/
+- id: dl-de-by-2.0
+  text: 'https://www.govdata.de/dl-de/by-2-0 '
+- id: etalab-2.0
+  text: Licence Ouverte v2.0
+- id: cc-by
+  text: Creative Commons Attribution 3.0
+- id: dl-de-zero-2.0
+  text: "Die Ansicht der Daten ist kostenlos und unverbindlich. F\xFCr ausf\xFChrliche
+    Informationen wenden Sie sich bitte and die Verbandsgemeinde S\xFCdeifel. - Lizenz:
+    dl-de-zero-2.0 - Datenlizenz Deutschland \u2013 Zero \u2013 Version 2.0 - https://www.govdata.de/dl-de/zero-2-0"
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/4.0/legalcode
+- id: dl-de-by-2.0
+  text: "Bei der Ver\xF6ffentlichung der Bauleitpl\xE4ne im Bereich der Verbandsgemeinde
+    Altenahr im GeoPortal.rlp handelt es sich um ein unverbindliches zus\xE4tzliches
+    Informationsangebot der Verbandsgemeindeverwaltung Altenahr. F\xFCr dessen Richtigkeit/Genauigkeit,
+    Aktualit\xE4t und Vollst\xE4ndigkeit wird von der Verbandsgemeinde Altenahr einschlie\xDFlich
+    ihrer verbandsangeh\xF6rigen Ortsgemeinden keine Haftung oder Gew\xE4hrleistung
+    \xFCbernommen. Die Verbandsgemeinde Altenahr einschlie\xDFlich ihrer verbandsangeh\xF6rigen
+    Ortsgemeinden haften nicht f\xFCr Sch\xE4den oder Verluste, welche durch die direkte
+    oder indirekte Nutzung entstehen. Die Datennutzung aus der Onlineanwendung erfolgt
+    auf eigenes Risiko und ausschlie\xDFlich f\xFCr nicht kommerzielle Zwecke. Eine
+    Weiterverwendung der Inhalte, Ver\xF6ffentlichung, Verkauf oder die Erstellung
+    abgeleiteter Planungen bedarf der schriftlichen Einwilligung der Verbandsgemeinde
+    Altenahr. Rechtlich verbindlich sind ausschlie\xDFlich die Original-Bebauungspl\xE4ne,
+    die in den R\xE4umen der Verbandsgemeindeverwaltung Altenahr, Ro\xDFberg 3, 53505
+    Altenahr, eingesehen werden k\xF6nnen. Insbesondere treffen die Online-Daten keine
+    rechtsverbindliche Aussage \xFCber die Zul\xE4ssigkeit eventueller Bauvorhaben
+    und Nutzungen. Daher wird ausdr\xFCcklich empfohlen, vor Entscheidungen und besonders
+    vor verm\xF6genswirksamen Dispositionen (z.B. Grundst\xFCcksvertr\xE4ge) eine
+    schriftliche Auskunft zu der im jeweiligen Einzelfall beabsichtigten Bauma\xDFnahme
+    bzw. Nutzung (z.B. im Wege einer Bauvoranfrage) einzuholen. F\xFCr erg\xE4nzende
+    Beratung und Erl\xE4uterungen der Bauleitpl\xE4ne stehen die Mitarbeiter/innen
+    der Bauabteilung w\xE4hrend der \xD6ffnungszeiten sowie nach telefonischer Terminvereinbarung
+    zur Verf\xFCgung. - Lizenz: dl-de-by-2.0 - Datenlizenz Deutschland Namensnennung
+    2.0 - https://www.govdata.de/dl-de/by-2-0 - Quellenvermerk: Source note required
+    by license, but not given!"
+- id: etalab
+  text: https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
+- id: dl-de-zero-2.0
+  text: Datenlizenz Deutschland - Zero - Version 2.0
+- id: dl-de-by-2.0
+  text: "F\xFCr die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung
+    - Version 2.0 anzuwenden. Die Lizenz ist \xFCber https://www.govdata.de/dl-de/by-2-0
+    abrufbar. Der Quellenvermerk gem\xE4\xDF (2)  der Lizenz lautet \"Umweltatlas
+    Berlin / [Titel des Datensatzes]\"."
+- id: dl-de-by-2.0
+  text: "F\xFCr die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung
+    - Version 2.0 anzuwenden. Die Lizenz ist \xFCber https://www.govdata.de/dl-de/by-2-0
+    abrufbar. Der Quellenvermerk gem\xE4\xDF (2) der Lizenz lautet \"Geoportal Berlin
+    / [Titel des Datensatzes]\"."
+- id: cc-by
+  text: 'Creative Commons: Namensnennung - 3.0 Deutschland'
+- id: cc-by
+  text: cc-by-3.0
+- id: cc-by
+  text: Creative Commons Namensnennung (CC-BY)
+- id: odc-odbl
+  text: http://opendatacommons.org/licenses/odbl/summary
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Kirchberg.
+    Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Kirchberg ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde Kirchberg eingesehen
+    werden k\xF6nnen. - Lizenz: cc-nc-3.0 - Creative Commons: Namensnennung - Keine
+    kommerzielle Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/3.0/
+- id: dl-de-zero-2.0
+  text: "Die Bereitstellung der Daten zu den Bebauungspl\xE4nen der Verbandsgemeinde
+    Altenkirchen (Westerwald) ist eine unverbindliche Serviceleistung. S\xE4mtliche
+    Rechte an diesem Dienst liegen bei der Verbandsgemeinde Altenkirchen (Westerwald).
+    Die Nutzung der Daten aus der Onlineanwendung erfolgt auf eigenes Risiko und ausschlie\xDFlich
+    f\xFCr nicht kommerzielle Zwecke. Die kommerzielle Nutzung ohne vertragliche Grundlage
+    mit der Verbandsgemeinde Altenkirchen (Westerwald) ist ausdr\xFCcklich ausgeschlossen.
+    Sofern Sie keine schriftliche Einwilligung der Verbandsgemeinde Altenkirchen (Westerwald)
+    haben, d\xFCrfen Sie den Inhalt weder ab\xE4ndern noch abgeleitete Werke daraus
+    erstellen, die Inhalte nicht weiterverbreiten, ver\xF6ffentlichen, verkaufen oder
+    auf andere Weise f\xFCr Dritte zug\xE4nglich machen. Das Anschauen (\"Viewing\")
+    in der Online-Anwendung GeoPortal.rlp ist kostenfrei. Die Verbandsgemeinde Altenkirchen
+    (Westerwald) lehnt jegliche Haftung oder Gew\xE4hrleistung auf die Richtigkeit/Genauigkeit
+    und Vollst\xE4ndigkeit der Daten und Inhalte sowie die dauerhafte Verf\xFCgbarkeit
+    der Serviceleistung ab. Die Verbandsgemeinde Altenkirchen (Westerwald) haftet
+    nicht f\xFCr Sch\xE4den, welche durch die direkte oder indirekte Nutzung entstehen.
+    Rechtlich verbindlich sind ausschlie\xDFlich die Original-Bebauungspl\xE4ne mit
+    ihren Festsetzungen, die in den R\xE4umen der Verbandsgemeinde Altenkirchen (Westerwald),
+    Fachbereich Infrastruktur, Umwelt und Bauen, Rathausstra\xDFe 13, 57610 Altenkirchen,
+    eingesehen werden k\xF6nnen. Telefonische R\xFCckfragen zu den Bebauungspl\xE4nen
+    k\xF6nnen unter den Telefonnummern 02681/85-0 gestellt werden. - Lizenz: dl-de-zero-2.0
+    - Datenlizenz Deutschland \u2013 Zero \u2013 Version 2.0 - https://www.govdata.de/dl-de/zero-2-0"
+- id: cc-by
+  text: Creative Commons Attribution 3.0 International Licence
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/3.0/au/
+- id: dl-de-zero-2.0
+  text: "Die Richtigkeit der Daten wurde gepr\xFCft, aber wir m\xFCssen aus rechtlichen
+    Gr\xFCnden darauf hinweisen, dass verbindliche Ausk\xFCnfte nur direkt bei der
+    Verbandsgemeindeverwaltung Jockgrim erteilt werden. - Lizenz: dl-de-zero-2.0 -
+    Datenlizenz Deutschland \u2013 Zero \u2013 Version 2.0 - https://www.govdata.de/dl-de/zero-2-0"
+- id: cc-by
+  text: "Creative Commons 4.0 Attribution (CC-BY) licence \u2013 Quebec (https://www.donneesquebec.ca/fr/licence/)"
+- id: etalab
+  text: 'Licence ouverte : https://www.etalab.gouv.fr/licence-ouverte-open-licence'
+- id: dl-de-by-2.0
+  text: "Im Rahmen der Umsetzung der eGovernment-Initiative des Landes Rheinland-Pfalz
+    wurde der Aufbau einer Geodateninfrastruktur beschlossen, welche Pl\xE4ne mit
+    r\xE4umlichen Geltungsbereichen (Bebauungspl\xE4ne, Fl\xE4chennutzungspl\xE4ne,
+    Gr\xFCnordnungspl\xE4ne) der \xD6ffentlichkeit \xFCber eine Internetplattform
+    bereitstellt. Die Datens\xE4tze zu den rechtsverbindlichen Bebauungspl\xE4nen
+    im Bereich der Gemeinde Grafschaft wurden entsprechend aufbereitet und in das
+    \u201EGeoPortal\u201C eingepflegt.  Somit sind die Voraussetzungen f\xFCr einen
+    Zugriff auf die Bebauungsplandaten der Gemeinde Grafschaft \xFCber das \u201EGeoPortal\u201C
+    des Landes geschaffen.  Den B\xFCrgern bieten sich au\xDFerdem weitere Verkn\xFCpfungsm\xF6glichkeiten
+    mit anderen Daten wie Luftbild, Katasterkarte oder Bodenrichtwerte.  Die Nutzung
+    der Daten wird \xFCber folgende Nutzungsbedingungen geregelt.   Nutzungsbedingungen:
+    Bei der Ver\xF6ffentlichung der Bauleitpl\xE4ne im Bereich der Gemeinde Grafschaft
+    im GeoPortal.rlp handelt es sich um ein unverbindliches zus\xE4tzliches Informationsangebot
+    der Gemeinde Grafschaft. F\xFCr dessen Richtigkeit/Genauigkeit, Aktualit\xE4t
+    und Vollst\xE4ndigkeit wird von der Gemeinde Grafschaft einschlie\xDFlich ihrer
+    angeh\xF6rigen Ortsgemeinden keine Haftung oder Gew\xE4hrleistung \xFCbernommen.
+    Die Gemeinde Grafschaft einschlie\xDFlich ihrer angeh\xF6rigen Ortsgemeinden haften
+    nicht f\xFCr Sch\xE4den oder Verluste, welche durch die direkte oder indirekte
+    Nutzung entstehen.  Die Datennutzung aus der Onlineanwendung erfolgt auf eigenes
+    Risiko und ausschlie\xDFlich f\xFCr nicht kommerzielle Zwecke. Eine Weiterverwendung
+    der Inhalte, Ver\xF6ffentlichung, Verkauf oder die Erstellung abgeleiteter Planungen
+    bedarf der schriftlichen Einwilligung der Gemeindeverwaltung Grafschaft. Rechtlich
+    verbindlich sind ausschlie\xDFlich die Original-Bebauungspl\xE4ne, die in den
+    R\xE4umen der Gemeindeverwaltung Grafschaft, Ahrtalstra\xDFe 5, 53501 Grafschaft,
+    eingesehen werden k\xF6nnen. Insbesondere treffen die Online-Daten keine rechtsverbindliche
+    Aussage \xFCber die Zul\xE4ssigkeit eventueller Bauvorhaben und Nutzungen.  Daher
+    wird ausdr\xFCcklich empfohlen, vor Entscheidungen und besonders vor verm\xF6genswirksamen
+    Dispositionen (z.B. Grundst\xFCcksvertr\xE4ge) eine schriftliche Auskunft zu der
+    im jeweiligen Einzelfall beabsichtigten Bauma\xDFnahme bzw. Nutzung (z.B. im Wege
+    einer Bauvoranfrage) einzuholen.  F\xFCr erg\xE4nzende Beratung und Erl\xE4uterungen
+    der Bauleitpl\xE4ne stehen die Mitarbeiter/innen des Fachbereiches 2 Nat\xFCrliche
+    Lebensgrundlagen und Bauen w\xE4hrend der \xD6ffnungszeiten sowie nach telefonischer
+    Terminvereinbarung zur Verf\xFCgung. Die grunds\xE4tzliche Nutzung der zur Verf\xFCgung
+    stehenden Kartendienste des Geoprotals ist \xFCber die \u201EDatenlizenz Deutschland-Namensnennung
+    \u2013 2.0\u201C geregelt. - Lizenz: dl-de-by-2.0 - Datenlizenz Deutschland Namensnennung
+    2.0 - https://www.govdata.de/dl-de/by-2-0 - Quellenvermerk: Source note required
+    by license, but not given!"
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Simmern.
+    Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Simmern ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde Simmern eingesehen
+    werden k\xF6nnen. - Lizenz: cc-nc-3.0 - Creative Commons: Namensnennung - Keine
+    kommerzielle Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: cc-by-nc
+  text: Creative Commons Attribution-NonCommercial 3.0 Australia License
+- id: cc-by-nc
+  text: http://creativecommons.org/licenses/by-nc/3.0/au/
+- id: cc-by
+  text: CC BY 3.0 (Creative Commons - Attribuzione)
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Emmelshausen.
+    Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Emmelshausen ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde Emmelshausen eingesehen
+    werden k\xF6nnen. - Lizenz: cc-nc-3.0 - Creative Commons: Namensnennung - Keine
+    kommerzielle Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: dl-de-by-2.0
+  text: "WICHTIGER HINWEIS: Bei der Ver\xF6ffentlichung der Bauleitpl\xE4ne der Ortsgemeinden
+    und der Verbandsgemeinde Vordereifel  im geoportal rlp handelt es sich um ein
+    unverbindliches zus\xE4tzliches Informationsangebot der Verbandsgemeinde Vordereifel,
+    f\xFCr dessen RICHTIGKEIT und AKTUALIT\xC4T von der Verbandsgemeinde Vordereifel
+    KEINE GEW\xC4HRLEISTUNG \xFCbernommen wird. Insbesondere treffen diese Daten keine
+    rechtsverbindliche Aussage \xFCber die Zul\xE4ssigkeit eventueller Bauvorhaben
+    und Nutzungen. Es wird deshalb dringend empfohlen, vor Entscheidungen und besonders
+    vor verm\xF6genswirksamen Dispositionen wie z.B. Grundst\xFCcksvertr\xE4gen eine
+    schriftliche Auskunft zu der im jeweiligen Einzelfall beabsichtigten Bauma\xDFnahme
+    bzw. Nutzung (z.B. durch eine Bauvoranfrage) bei der Verbandsgemeinde Vordereifel
+    \ einzuholen. F\xFCr erg\xE4nzende Beratung und Erl\xE4uterungen der Bauleitpl\xE4ne
+    stehen die Mitarbeiter/innen des Bauamtes der Bauverwaltung der Verbandsgemeinde
+    Vordereifel w\xE4hrend der \xD6ffnungszeiten sowie nach telefonischer Terminvereinbarung
+    bereit.\"  - Lizenz: dl-de-zero-2.0 - Datenlizenz Deutschland \u2013 Zero \u2013
+    Version 2.0 - https://www.govdata.de/dl-de/zero-2-0"
+- id: public-domain
+  text: Public Domain / No Restrictions
+- id: cc-zero
+  text: https://creativecommons.org/publicdomain/zero/1.0/legalcode.lv
+- id: cc-by-sa
+  text: http://creativecommons.org/licenses/by-sa/3.0/gr/
+- id: cc-by-nc-sa
+  text: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia (CC BY-NC-SA
+    3.0 AU)
+- id: cc-by-nc-sa
+  text: CC-BY-NC-SA-3.0-AU
+- id: cc-by-sa-nc
+  text: https://creativecommons.org/licenses/by-nc-sa/3.0/au/
+- id: dl-de-by-2.0
+  text: "Dieser Datensatz kann gem\xE4\xDF der \"Datenlizenz Deutschland Namensnennung
+    nicht-kommerziell 1.0\" (https://www.govdata.de/dl-de/by-nc-1-0) genutzt werden."
+- id: cc-by
+  text: 'Use of these data is covered by the following licence: http://creativecommons.org/licenses/by/4.0/
+    . When using these data you must cite them correctly using the citation given
+    on the CEDA Data Catalogue record.'
+- id: cc-by
+  text: Creative Commons Attribution 3.0 Unported
+- id: dl-de-by-2.0
+  text: "F\xFCr die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung
+    - Version 2.0 anzuwenden. Die Lizenz ist \xFCber https://www.govdata.de/dl-de/by-2-0
+    abrufbar. Der Quellenvermerk gem\xE4\xDF (2) der Lizenz lautet \"Umweltatlas Berlin
+    / [Titel des Datensatzes]\"."
+- id: cc-by-sa
+  text: http://creativecommons.org/licenses/by-sa/4.0
+- id: cc-by
+  text: https://opendefinition.org/licenses/cc-by/
+- id: odc-pddl
+  text: http://opendatacommons.org/licenses/pddl/1.0/
+- id: cc-by
+  text: The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows
+    others to copy, distribute, display, and create derivative works provided that
+    they credit the original source and any other nominated parties. Details are provided
+    at https://creativecommons.org/licenses/by/4.0/
+- id: cc-by
+  text: http://www.opendefinition.org/licenses/cc-by/
+- id: odc-odbl
+  text: "Licen\xE7a Aberta para Bases de Dados (ODbL) do Open Data Commons"
+- id: cc-by
+  text: CC-BY-3.0-AU
+- id: cc-by
+  text: CC-BY-2.1
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/2.1/jp/
+- id: etalab
+  text: Licence Ouverte-LO
+- id: cc-zero
+  text: Creative Commons CC0
+- id: cc-zero
+  text: http://creativecommons.org/publicdomain/zero/1.0/deed
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/3.0/deed.de
+- id: cc-by
+  text: Creative Commons Namensnennung (CC BY)
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Kastellaun.
+    Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Kastellaun ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde Kastellaun eingesehen
+    werden k\xF6nnen. - Lizenz: cc-nc-3.0 - Creative Commons: Namensnennung - Keine
+    kommerzielle Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: cc-by-nc
+  text: "Das Anschauen (\"Viewing\") in der Online-Anwendung des GeoPortal.rlp ist
+    kostenfrei. Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeindeverwaltung
+    Vallendar bzw. der plangebenden Ortsgemeinde ist ausdr\xFCcklich ausgeschlossen.
+    Eine systematische Nutzung des Produktes, welche darauf ausgerichtet ist, einen
+    Sekund\xE4rdatenbestand zu erstellen, ist ausdr\xFCcklich untersagt. Die Nutzung
+    der Daten aus der Onlineanwendung heraus f\xFCr private Zwecke erfolgt auf eigenes
+    Risiko. Rechtlich verbindlich sind ausschlie\xDFlich die Originalpl\xE4ne, die
+    in den R\xE4umen der Verbandsgemeindeverwaltung Vallendar eingesehen werden k\xF6nnen.
+    Bitte nehmen Sie dazu Kontakt mit Frau Merg, Verbandsgemeindeverwaltung Vallendar
+    auf (Tel: 0261/6503-149 oder E-Mail: marie.merg@vg-vallendar.de). - Lizenz: cc-nc-3.0
+    - Creative Commons: Namensnennung - Keine kommerzielle Nutzung 3.0 Deutschland
+    - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: cc-by
+  text: "F\xFCr dieses Produkt gilt die Standardlizenz CC-BY-4.0"
+- id: odc-odbl
+  text: http://opendatacommons.org/licenses/odbl/1.0/
+- id: cc-by
+  text: https://spdx.org/licenses/CC-BY-4.0
+- id: cc-by
+  text: Creative Commons Attribution 3.0 Australia (CC BY 3.0 AU)
+- id: cc-by
+  text: CC-BY-3.0
+- id: dl-de-zero-2.0
+  text: 'kostenlos - Lizenz: dl-zero-de/2.0 - Datenlizenz Deutschland - Zero - Version
+    2.0 - https://www.govdata.de/dl-de/zero-2-0'
+- id: cc-by-sa
+  text: "Der Dienst und die damit verbundenen Datens\xE4tze stehen unter einer Creative
+    Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Lizenz (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+    Die Namensnennung der Gemeinde Bad Pyrmont als Rechteinhaber hat in folgender
+    Weise zu erfolgen: \"Datenquelle: Stadt Bad Pyrmont, https://www.badpyrmont.de\""
+- id: cc-by
+  text: https://www.opendefinition.org/licenses/cc-by
+- id: cc-by
+  text: CC-BY-3.0-IGO
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Rheinb\xF6llen.
+    Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Rheinb\xF6llen ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind
+    ausschlie\xDFlich die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde
+    Rheinb\xF6llen eingesehen werden k\xF6nnen. - Lizenz: cc-nc-3.0 - Creative Commons:
+    Namensnennung - Keine kommerzielle Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: odc-odbl
+  text: Licence ODbL 1.0
+- id: etalab-2.0
+  text: Licence Ouverte/Open License Version 2.0
+- id: etalab-2.0
+  text: https://www.etalab.gouv.fr/licence-ouverte-open-licence/
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/legalcode
+- id: cc-by
+  text: "Creative Commons: Namensnennung - Keine  kommerzielle Nutzung - Keine Bearbeitungen
+    3.0 Deutschland; S\xE4mtliche Rechte an diesem Dienst liegen bei der Gemeinde
+    Morbach. Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Gemeinde
+    Morbach ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Originalpl\xE4ne, die in den R\xE4umen der Gemeinde Morbach eingesehen werden
+    k\xF6nnen. F\xFCr die Richtigkeit/Genauigkeit, Aktualit\xE4t und Vollst\xE4ndigkeit
+    der im GeoPortal RLP ver\xF6ffentlichten Bauleitpl\xE4ne \xFCbernimmt die Gemeinde
+    Morbach keine Haftung oder Gew\xE4hrleistung. - Lizenz: cc-by-nc-nd-3.0 - Creative
+    Commons: Namensnennung - Keine kommerzielle Nutzung - Keine Bearbeitungen 3.0
+    Deutschland - http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+- id: dl-de-by-2.0
+  text: "Lizenz: dl-by-de/2.0 - Datenlizenz Deutschland - Namensnennung - Version
+    2.0 - https://www.govdata.de/dl-de/by-2-0 - Quellenvermerk: Hessisches Ministerium
+    f\xFCr Wirtschaft, Energie, Verkehr und Wohnen (HMWEVW) | {\"id\":\"dl-by-de/2.0\",\"name\":\"Datenlizenz
+    Deutschland - Namensnennung - Version 2.0\",\"url\":\"https://www.govdata.de/dl-de/by-2-0\",\"quelle\":\"Hessisches
+    Ministerium f\xFCr Wirtschaft, Energie, Verkehr und Wohnen, HMWEVW\"} - Lizenz:
+    dl-by-de/2.0 - Datenlizenz Deutschland - Namensnennung - Version 2.0 - https://www.govdata.de/dl-de/by-2-0
+    - Quellenvermerk: Hessisches Ministerium f\xFCr Wirtschaft, Energie, Verkehr und
+    Wohnen (HMWEVW)"
+- id: cc-by
+  text: Creative Commons Attribution License 3.0
+- id: cc-zero
+  text: "Das von der Hanse- und Universit\xE4tsstadt Rostock hier angebotene Werk
+    unterliegt der gemeinfreien Lizenz Creative Commons 1.0 Universell Public Domain
+    Dedication (CC0 1.0; URL: https://creativecommons.org/publicdomain/zero/1.0/deed.de).
+    Damit ist alles gestattet, ohne um weitere Erlaubnis bitten zu m\xFCssen. Es gelten
+    folgende Regelungen zu Gew\xE4hrleistung und Haftung: https://geo.sv.rostock.de/haftung-fuer-angebotene-inhalte.html"
+- id: cc-by
+  text: http://creativecommons.org/licenses/by/3.0
+- id: dl-de-zero-2.0
+  text: Es gelten die Lizenzbedingungen "Datenlizenz Deutschland - Zero - Version
+    2.0" (https://www.govdata.de/dl-de/zero-2-0).
+- id: etalab-2.0
+  text: 'Licence ouverte v2.0 : https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf'
+- id: cc-by
+  text: CC-BY-2.5-AR
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/3.0/de/
+- id: cc-zero
+  text: CC0
+- id: cc-by-sa
+  text: Creative Commons Attribuzione-Condividi allo stesso modo 4.0 Internazionale
+    (CC BY-SA 4.0)
+- id: cc-by-nc-nd
+  text: "WICHTIGER HINWEIS: Bei der Ver\xF6ffentlichung der Bauleitpl\xE4ne der Ortsgemeinden
+    H\xF6rdt, Kuhardt, Leimersheim und R\xFClzheim als SEKUND\xC4RDATEN im geoportal.rlp
+    handelt es sich um ein unverbindliches zus\xE4tzliches Informationsangebot der
+    Verbandsgemeindeverwaltung R\xFClzheim, f\xFCr dessen RICHTIGKEIT und AKTUALIT\xC4T
+    von den Ortsgemeinden und der Verbandsgemeinde KEINE GEW\xC4HRLEISTUNG \xFCbernommen
+    wird. Insbesondere treffen diese Daten keine rechtsverbindliche Aussage \xFCber
+    die Zul\xE4ssigkeit eventueller Bauvorhaben und Nutzungen. Es wird deshalb dringend
+    empfohlen, vor Entscheidungen und besonders vor verm\xF6genswirksamen Dispositionen
+    wie z.B. Grundst\xFCcksvertr\xE4gen eine schriftliche Auskunft zu der im jeweiligen
+    Einzelfall beabsichtigten Bauma\xDFnahme bzw. Nutzung) bei der Verbandsgemeindeverwaltung
+    R\xFClzheim einzuholen. F\xFCr erg\xE4nzende Beratung und Erl\xE4uterungen der
+    Bauleitpl\xE4ne stehen die Mitarbeiter/innen der Bauverwaltung w\xE4hrend der
+    \xD6ffnungszeiten sowie nach telefonischer Terminvereinbarung zur Verf\xFCgung.
+    - Lizenz: cc-by-nc-nd-3.0 - Creative Commons: Namensnennung - Keine kommerzielle
+    Nutzung - Keine Bearbeitungen 3.0 Deutschland - http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+- id: etalab-2.0
+  text: http://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
+- id: cc-by
+  text: 'CC-BY-3.0: Creative Commons Attribution 3.0 Unported'
+- id: cc-by
+  text: Open data (publiek)|https://creativecommons.org/publicdomain/mark/1.0/deed.nl
+- id: etalab
+  text: Licence Ouverte Etalab, https://www.etalab.gouv.fr/licence-ouverte-open-licence
+- id: cc-by-sa
+  text: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)
+- id: etalab-2.0
+  text: Open Government Licence - Vancouver
+- id: cc-zero
+  text: Creative commons  CC0 1.0 Universiell
+- id: cc-by
+  text: cc-by4
+- id: cc-zero
+  text: http://resources.geodata.se/codelist/metadata/anvandningsrestriktioner.xml#CC01.0
+- id: cc-by
+  text: "Limitaciones de acceso: El IEO, as\xED como otros organismos implicados en
+    la toma de datos, posee todos los derechos de la propiedad intelectual sobre la
+    informaci\xF3n distribuida. Ver \u201CLicencia de Uso\u201D del IEO en el Documento
+    \u201CPol\xEDtica de Datos del IEO\u201D. Para el resto de condiciones es aplicable
+    la licencia p\xFAblica __Creative Commons Atribuci\xF3n-NoComercial-CompartirIgual
+    4.0 Internacional (CC BY-NC-SA 4.0) __ https://creativecommons.org/licenses/by/4.0/"
+- id: cc-by
+  text: "Condiciones de Uso: El IEO, as\xED como otros organismos implicados en la
+    toma de datos, posee todos los derechos de la propiedad intelectual sobre la informaci\xF3n
+    distribuida. Ver \u201CLicencia de Uso\u201D del IEO en el Documento \u201CPol\xEDtica
+    de Datos del IEO\u201D. Para el resto de condiciones es aplicable la licencia
+    p\xFAblica __Creative Commons Atribuci\xF3n-NoComercial-CompartirIgual 4.0 Internacional
+    (CC BY-NC-SA 4.0) __ https://creativecommons.org/licenses/by/4.0/"
+- id: cc-by-sa-nc
+  text: https://creativecommons.org/licenses/by-nc-sa/4.0/
+- id: cc-by
+  text: Data is for public use under Creative Commons CC-By 4.0
+- id: cc-by
+  text: CC-BY
+- id: cc-by
+  text: cc-by-21-jp
+- id: dl-de-zero-2.0
+  text: http://dcat-ap.de/def/licenses/dl-zero-de/2.0
+- id: cc-by-nc-sa
+  text: CC-BY-NC-SA-4.0
+- id: cc-by
+  text: CC-BY 4.0 (Attribution)
+- id: cc-by
+  text: 'CC BY 4.0: https://creativecommons.org/licenses/by/4.0/'
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Sankt
+    Goar-Oberwesel. Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Sankt Goar-Oberwesel ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich
+    sind ausschlie\xDFlich die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde
+    Sankt Goar-Oberwesel eingesehen werden k\xF6nnen. - Lizenz: cc-nc-3.0 - Creative
+    Commons: Namensnennung - Keine kommerzielle Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/3.0/ch/deed.de
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/deed
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Stadt Boppard. Die kommerzielle
+    Nutzung ohne vertragliche Grundlage mit der Stadt Boppard ist ausdr\xFCcklich
+    ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich die Originalpl\xE4ne,
+    die in den R\xE4umen der Stadt Boppard eingesehen werden k\xF6nnen. - Lizenz:
+    cc-nc-3.0 - Creative Commons: Namensnennung - Keine kommerzielle Nutzung 3.0 Deutschland
+    - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: cc-by
+  text: Creative Commons Attribuzione 3.0 Unported (CC BY 3.0)
+- id: odc-odbl
+  text: https://opendatacommons.org/licenses/odbl/1.0/
+- id: cc-by-nc
+  text: https://creativecommons.org/licenses/by-nc/4.0/
+- id: cc-by-nc
+  text: CC-BY-NC-4.0
+- id: etalab
+  text: "Les donn\xE9es sont fournies sous la Licence Ouverte 2.0 (https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)."
+- id: cc-by-nc-nd
+  text: "Bei der Ver\xF6ffentlichung der Bauleitpl\xE4ne im Bereich der Verbandsgemeinde
+    Hachenburg im GeoPortal.rlp handelt es sich um ein unverbindliches zus\xE4tzliches
+    Informationsangebot der Verbandsgemeinde Hachenburg. F\xFCr dessen Richtigkeit/Genauigkeit,
+    Aktualit\xE4t und Vollst\xE4ndigkeit wird von der Verbandsgemeinde Hachenburg
+    einschlie\xDFlich ihrer angeh\xF6rigen Ortsgemeinden und der Stadt Hachenburg
+    keine Haftung oder Gew\xE4hrleistung \xFCbernommen. Die Verbandsgemeinde Hachenburg
+    einschlie\xDFlich ihrer angeh\xF6rigen Ortsgemeinden und der Stadt Hachenburg
+    haften nicht f\xFCr Sch\xE4den oder Verluste, welche durch die direkte oder indirekte
+    Nutzung entstehen. Die Datennutzung aus der Onlineanwendung erfolgt auf eigenes
+    Risiko und ausschlie\xDFlich f\xFCr nicht kommerzielle Zwecke. Eine Weiterverwendung
+    der Inhalte, Ver\xF6ffentlichung, Verkauf oder die Erstellung abgeleiteter Planungen
+    bedarf der schriftlichen Einwilligung der Verbandsgemeindeverwaltung Hachenburg.
+    Rechtlich verbindlich sind ausschlie\xDFlich die Original-Bebauungspl\xE4ne, die
+    in den R\xE4umen der Verbandsgemeindeverwaltung Hachenburg, Gartenstra\xDFe 11,
+    57627 Hachenburg, eingesehen werden k\xF6nnen. Insbesondere treffen die Online-Daten
+    keine rechtsverbindliche Aussage \xFCber die Zul\xE4ssigkeit eventueller Bauvorhaben
+    und Nutzungen. Daher wird ausdr\xFCcklich empfohlen, vor Entscheidungen und besonders
+    vor verm\xF6genswirksamen Dispositionen (z.B. Grundst\xFCcksvertr\xE4ge) eine
+    schriftliche Auskunft zu der im jeweiligen Einzelfall beabsichtigten Bauma\xDFnahme
+    bzw. Nutzung (z.B. im Wege einer Bauvoranfrage) einzuholen. F\xFCr erg\xE4nzende
+    Beratung und Erl\xE4uterungen der Bauleitpl\xE4ne stehen die Mitarbeiter/innen
+    des Fachbereiches 4 w\xE4hrend der \xD6ffnungszeiten sowie nach telefonischer
+    Terminvereinbarung zur Verf\xFCgung.  N\xE4here Nutzungsbedingungen bzw. Rechtshinweise
+    werden auf der Homepage Geoportal.rlp.de erl\xE4utert. - Lizenz: cc-by-nc-nd-3.0
+    - Creative Commons: Namensnennung - Keine kommerzielle Nutzung - Keine Bearbeitungen
+    3.0 Deutschland - http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+- id: etalab
+  text: Licence ouverte (Etalab)
+- id: odc-odbl
+  text: 'Lizenz: odc-odbl-1.0 - Open Data Commons Open Database License (ODbL) - http://opendatacommons.org/licenses/odbl/1.0/'
+- id: cc-by-sa
+  text: "Der Dienst und die damit verbundenen Datens\xE4tze stehen unter einer Creative
+    Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Lizenz (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+    Die Namensnennung der Stadt Bad M\xFCnder am Deister  als Rechteinhaber hat in
+    folgender Weise zu erfolgen: \"Datenquelle: Stadt Bad M\xFCnder am Deister, https://www.bad-muender.de\""
+- id: cc-by-nc
+  text: Creative Commons Non-Commercial (Cualquiera)
+- id: odc-odbl
+  text: https://opendefinition.org/licenses/odc-odbl
+- id: cc-by-sa
+  text: https://creativecommons.org/licenses/by-nc/4.0
+- id: cc-by-sa
+  text: "Der Dienst und die damit verbundenen Datens\xE4tze stehen unter einer Creative
+    Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Lizenz (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+    Die Namensnennung der Gemeinde Hessisch Oldendorf als Rechteinhaber hat in folgender
+    Weise zu erfolgen: \"Datenquelle: Stadt Hessisch Oldendorf, https://www.hessisch-oldendorf.de\""
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/deed.ca
+- id: cc-by
+  text: Creative Commons Attribution  (CC BY)
+- id: etalab
+  text: 'Licence Etalab : https://www.etalab.gouv.fr/licence-ouverte-open-licence'
+- id: cc-by-sa
+  text: http://creativecommons.org/licenses/by-sa/3.0/deed.de
+- id: cc-by-nc-sa
+  text: cc-by-nc-sa
+- id: odc-odbl
+  text: 'keine - Lizenz: odc-odbl-1.0 - Open Data Commons Open Database License (ODbL)
+    - http://opendatacommons.org/licenses/odbl/1.0/'
+- id: iodl-1.0
+  text: iodl
+- id: cc-zero
+  text: https://creativecommons.org/publicdomain/zero/1.0/deed.nl
+- id: cc-by
+  text: Creative Commons Attribuzione 2.0 Italia (CC BY 2.0 IT)
+- id: cc-by-nc-sa
+  text: CC-BY-NC-SA 4.0
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/deed.ja
+- id: cc-zero
+  text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/deed.sv
+- id: odc-odbl
+  text: ODbL
+- id: etalab
+  text: Licence Ouverte v1.0
+- id: etalab
+  text: 'Licence Ouverte : https://www.etalab.gouv.fr/licence-ouverte-open-licence'
+- id: cc-by
+  text: Creative Commons - Namensnennung 3.0 Deutschland
+- id: odc-odbl
+  text: ODbL with Database Contents License (DbCL)
+- id: etalab-2.0
+  text: Licence Ouverte / Open License Etalab Version 2.0 (avril 2017)
+- id: odc-odbl
+  text: https://www.opendatacommons.org/licenses/odbl/1.0/
+- id: cc-by-sa
+  text: https://www.opendefinition.org/licenses/cc-by-sa
+- id: cc-by-nc-sa
+  text: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+- id: odc-pddl
+  text: "UN-Habitat\u2019s urban datasets are made available under the Public Domain
+    Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/"
+- id: cc-by
+  text: CC-BY 4.0
+- id: odc-odbl
+  text: "\u05E8\u05D9\u05E9\u05D9\u05D5\u05DF \u05DE\u05E1\u05D3 \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD
+    \u05E4\u05EA\u05D5\u05D7 \u05E2\u05D1\u05D5\u05E8 \u05DE\u05D9\u05D3\u05E2 \u05E4\u05EA\u05D5\u05D7
+    (ODbL)"
+- id: cc-by
+  text: Creative Commons Attribuzione
+- id: cc-by
+  text: cc-by-risp
+- id: odc-pddl
+  text: http://opendatacommons.org/licenses/pddl/summary
+- id: cc-zero
+  text: Creative Commons 1.0 Universal (CC0 1.0) Public Domain Dedication
+- id: public-domain
+  text: 'Access Constraints: None. These data are held in the public domain.'
+- id: cc-by-nc
+  text: CC-BY-NC (4.0)
+- id: cc-by-nc
+  text: https://creativecommons.org/licenses/by-nc/4.0/deed.nl
+- id: cc-by
+  text: "Der Datenbestand wird unter der Lizenz CC-BY-3.0-Namensnennung ver\xF6ffentlicht
+    (vgl. https://creativecommons.org/licenses/by/3.0/de/). Als Urheber ist dabei
+    zu nennen: Amt f\xFCr Statistik Berlin-Brandenburg"
+- id: cc-by-nd
+  text: http://creativecommons.org/licenses/by-nd/3.0/deed.de
+- id: public-domain
+  text: None, these data are considered public domain.
+- id: cc-by-nc
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Eich.
+    Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Eich ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde Eich eingesehen
+    werden k\xF6nnen. - Lizenz: cc-nc-3.0 - Creative Commons: Namensnennung - Keine
+    kommerzielle Nutzung 3.0 Deutschland - http://creativecommons.org/licenses/by-nc/3.0/de/"
+- id: cc-zero
+  text: Creative Commons CCZero 1.0
+- id: cc-zero
+  text: CC BY + CC0
+- id: cc-by
+  text: 'Nutzungsbedingungen: Creative Commons Namensnennung 4.0 International (https://creativecommons.org/licenses/by/4.0/)'
+- id: cc-by-sa-nc
+  text: http://creativecommons.org/licenses/by-nc-sa/2.5/au/
+- id: cc-by
+  text: "S\xE4mtliche Rechte an diesem Dienst liegen bei der Verbandsgemeinde Eich.
+    Die kommerzielle Nutzung ohne vertragliche Grundlage mit der Verbandsgemeinde
+    Eich ist ausdr\xFCcklich ausgeschlossen. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Originalpl\xE4ne, die in den R\xE4umen der Verbandsgemeinde Eich eingesehen
+    werden k\xF6nnen. - Lizenz: cc-by-3.0 - Creative Commons: Namensnennung 3.0 Deutschland
+    - http://creativecommons.org/licenses/by/3.0/de/"
+- id: cc-by-nc-nd
+  text: 'keine - Lizenz: cc-by-nc-nd-3.0 - Creative Commons: Namensnennung - Keine
+    kommerzielle Nutzung - Keine Bearbeitungen 3.0 Deutschland - http://creativecommons.org/licenses/by-nc-nd/3.0/de/'
+- id: dl-de-zero-2.0
+  text: Data licence Germany - Zero - Version 2.0
+- id: cc-by-nc-nd
+  text: CC-BY-NC-ND-4.0
+- id: cc-by
+  text: "Creative Commons - Dom\xEDnio P\xFAblico"
+- id: cc-by
+  text: Creative Commons Attribuzione 2.5 Italia (CC BY 2.5 IT)
+- id: cc-by-sa
+  text: Creative Commons Attribuzione-Condividi allo stesso modo 3.0 Italia (CC BY-SA
+    3.0 IT)
+- id: cc-nc
+  text: Creative Commons Attribution Non-Commercial 4.0
+- id: cc-by-nc-nd
+  text: https://creativecommons.org/licenses/by-nc-nd/4.0/
+- id: cc-by
+  text: 'CC-BY-4.0: Creative Commons Attribution 4.0 International'
+- id: cc-by-sa
+  text: "Der Dienst und die damit verbundenen Datens\xE4tze stehen unter einer Creative
+    Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Lizenz (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+    Die Namensnennung der Gemeinde Emmerthal als Rechteinhaber hat in folgender Weise
+    zu erfolgen: \"Datenquelle: Gemeinde Emmerthal, https://www.emmerthal.de\""
+- id: cc-by
+  text: Creative Commons CC-BY 4.0
+- id: etalab-2.0
+  text: Licence Ouverte 2.0
+- id: cc-by-sa
+  text: "Der Dienst und die damit verbundenen Datens\xE4tze stehen unter einer Creative
+    Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Lizenz (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+    Die Namensnennung der Gemeinde Salzhemmendorf als Rechteinhaber hat in folgender
+    Weise zu erfolgen: \"Datenquelle: Flecken Salzhemmendorf, https://www.salzhemmendorf.de\""
+- id: cc-by
+  text: "Use constraints: Data can be used freely given that the source is cited (following
+    creative commons license CC-BY). The source should be cited as: \u201CHELCOM HOLAS
+    3 Dataset (2023)\""
+- id: odc-odbl
+  text: Open Data Commons (ODbL)
+- id: odc-odbl
+  text: ODbL-1.0
+- id: odc-odbl
+  text: http://opendatacommons.org/licenses/odbl/summary/
+- id: dl-de-zero-2.0
+  text: Datenlizenz Deutschland Zero 2.0
+- id: cc-zero
+  text: http://creativecommons.org/publicdomain/zero/1.0/deed.it
+- id: cc-by
+  text: This material is released under the Creative Commons Attribution 3.0 Australia
+    Licence.
+- id: cc-by
+  text: https://creativecommons.org/licenses/by/3.0/ch/deed.en
+- id: cc-by
+  text: "Licens f\xF6r anv\xE4ndning CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/"
+- id: cc-zero
+  text: https://resources.geodata.se/codelist/metadata/anvandningsrestriktioner.xml#CC01.0
+- id: cc-by-nc-nd
+  text: "Beschr\xE4nkungen des \xF6ffentlichen Zugangs Bei der Ver\xF6ffentlichung
+    der Bauleitpl\xE4ne im Bereich der Verbandsgemeinde Hachenburg im GeoPortal.rlp
+    handelt es sich um ein unverbindliches zus\xE4tzliches Informationsangebot der
+    Verbandsgemeinde Hachenburg. F\xFCr dessen Richtigkeit/Genauigkeit, Aktualit\xE4t
+    und Vollst\xE4ndigkeit wird von der Verbandsgemeinde Hachenburg einschlie\xDFlich
+    ihrer angeh\xF6rigen Ortsgemeinden und der Stadt Hachenburg keine Haftung oder
+    Gew\xE4hrleistung \xFCbernommen. Die Verbandsgemeinde Hachenburg einschlie\xDFlich
+    ihrer angeh\xF6rigen Ortsgemeinden und der Stadt Hachenburg haften nicht f\xFCr
+    Sch\xE4den oder Verluste, welche durch die direkte oder indirekte Nutzung entstehen.
+    Die Datennutzung aus der Onlineanwendung erfolgt auf eigenes Risiko und ausschlie\xDFlich
+    f\xFCr nicht kommerzielle Zwecke. Eine Weiterverwendung der Inhalte, Ver\xF6ffentlichung,
+    Verkauf oder die Erstellung abgeleiteter Planungen bedarf der schriftlichen Einwilligung
+    der Verbandsgemeindeverwaltung Hachenburg. Rechtlich verbindlich sind ausschlie\xDFlich
+    die Original-Bebauungspl\xE4ne, die in den R\xE4umen der Verbandsgemeindeverwaltung
+    Hachenburg, Gartenstra\xDFe 11, 57627 Hachenburg, eingesehen werden k\xF6nnen.
+    Insbesondere treffen die Online-Daten keine rechtsverbindliche Aussage \xFCber
+    die Zul\xE4ssigkeit eventueller Bauvorhaben und Nutzungen. Daher wird ausdr\xFCcklich
+    empfohlen, vor Entscheidungen und besonders vor verm\xF6genswirksamen Dispositionen
+    (z.B. Grundst\xFCcksvertr\xE4ge) eine schriftliche Auskunft zu der im jeweiligen
+    Einzelfall beabsichtigten Bauma\xDFnahme bzw. Nutzung (z.B. im Wege einer Bauvoranfrage)
+    einzuholen. F\xFCr erg\xE4nzende Beratung und Erl\xE4uterungen der Bauleitpl\xE4ne
+    stehen die Mitarbeiter/innen des Fachbereiches 4 w\xE4hrend der \xD6ffnungszeiten
+    sowie nach telefonischer Terminvereinbarung zur Verf\xFCgung. N\xE4here Nutzungsbedingungen
+    bzw. Rechtshinweise werden auf der Homepage Geoportal.rlp.de erl\xE4utert. - Lizenz:
+    cc-by-nc-nd-3.0 - Creative Commons: Namensnennung - Keine kommerzielle Nutzung
+    - Keine Bearbeitungen 3.0 Deutschland - http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+- id: cc-by
+  text: cc-by/4.0
+- id: dl-de-zero-2.0
+  text: 'Nutzungsbedingungen: Datenlizenz Deutschland - Zero - Version 2.0'
+- id: cc-zero
+  text: 'Full licenstext: https://creativecommons.org/publicdomain/zero/1.0/legalcode.sv'
+- id: cc-zero
+  text: https://creativecommons.org/publicdomain/zero/1.0/deed.sv
+- id: cc-by
+  text: Creative Commons Attributions
+- id: cc-zero
+  text: CC0 - Universal open license
+- id: cc-zero
+  text: Creative Commons - CC0
+- id: etalab-2.0
+  text: Licence Ouverte 2.0 (Etalab)
+- id: iodl-2.0
+  text: IODL-2.0
+- id: cc-by
+  text: Creative Commons Attribution 3.0 IGO
+- id: cc-by
+  text: '<span style=''color: rgb(51, 51, 51); font-family: ''>Creative Commons 3.0
+    (NZ)</span>'
+- id: cc-by
+  text: CC-BY_4.0
+- id: odc-odbl
+  text: Open Data Commons Open Database Licence (ODbL)
+- id: odc-odbl
+  text: http://vvlibri.org/fr/licence/odbl-10/legalcode/unofficial
+- id: odc-odbl
+  text: "Licence ODbL Version Fran\xE7aise"
+- id: cc-by-sa
+  text: Creative Commons Attribution Share Alike 4.0 International
+- id: etalab-2.0
+  text: Open Licence Etalab 2.0
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International, http://creativecommons.org/licenses/by/4.0/,
+    (c) Crown in right of the state of South Australia, DEWNR
+- id: cc-by
+  text: Creative Commons Namensnennung - 4.0 International (CC-BY 4.0)
+- id: cc-zero
+  text: https://ext-geodatakatalog-forv.lansstyrelsen.se/GeodataKatalogen/codelist/metadata/anvandningsrestriktioner.xml#CC01.0
+- id: public-domain
+  text: EPA Public Domain License
+- id: etalab-2.0
+  text: Licence Ouverte 2.0 https://www.etalab.gouv.fr/licence-ouverte-open-licence
+- id: cc-by
+  text: CC-BY-4.0 International Attribution
+- id: iodl-2.0
+  text: Italian Open Data License v2.0
+- id: public-domain
+  text: Public domain
+- id: etalab
+  text: "Donn\xE9e ouverte sous licence Etalab : http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html"
+- id: odc-odbl
+  text: Open Data Commons Open Database License 1.0 (ODbL)
+- id: etalab
+  text: Licence Ouverte 1.0 https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf
+- id: cc-by
+  text: "A reprodu\xE7\xE3o e c\xF3pia para usos n\xE3o comerciais \xE9 autorizada
+    nos termos de licen\xE7a Creative Commons \u2013 Atribui\xE7\xE3o (CC-BY). O uso
+    comercial sem consentimento por escrito da DRAAC \xE9 proibido. Sempre que o utilizador
+    publique e/ou divulgue, por meio anal\xF3gico ou digital, informa\xE7\xE3o geogr\xE1fica
+    propriedade da Dire\xE7\xE3o Regional do Ambiente e Altera\xE7\xF5es Clim\xE1ticas,
+    ainda que parcialmente adaptada, dever\xE1 atribuir cr\xE9ditos com inclus\xE3o
+    de texto \u201CInforma\xE7\xE3o geogr\xE1fica cedida pela Dire\xE7\xE3o Regional
+    do Ambiente e Altera\xE7\xF5es Clim\xE1ticas\u201D ou \u201C\xA9 DRAAC\u201D ou
+    \u201CFonte: DRAAC\u201D. Termos da licen\xE7a Creative Commons: [https://creativecommons.org/licenses/by/3.0/
+    ]"
+- id: iodl-2.0
+  text: http://www.dati.gov.it/iodl/2.0/
+- id: odc-odbl
+  text: ODC Open Database License (ODbL) version 1.0 https://spdx.org/licenses/ODbL-1.0.html
+- id: cc-by
+  text: 'CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/'
+- id: odc-odbl
+  text: Open Database License-ODBL
+- id: etalab-2.0
+  text: Licence Etalab v2 (cf. https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+- id: cc-zero
+  text: CC0 1.0 (Public Domain Dedication, No Copyright)
+- id: dl-de-zero-2.0
+  text: Datenlizenz Deutschland -Zero -Version 2.0
+- id: cc-by
+  text: Creative Commons CC-BY
+- id: cc-by
+  text: CC-BY-NC-3.0
+- id: ogl-canada-2.0
+  text: government-open-license-canada
+- id: cc-zero
+  text: "\u30AF\u30EA\u30A8\u30A4\u30C6\u30A3\u30D6\u30FB\u30B3\u30E2\u30F3\u30BA
+    CC0"
+- id: etalab-2.0
+  text: "Donn\xE9es sous licence Etalab v2 (cf. https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)"
+- id: cc-by-nd
+  text: CC-BY-ND-NZ-3.0
+- id: cc-by-sa
+  text: https://opendefinition.org/licenses/cc-by-sa/
+- id: cc-by
+  text: This work is licensed under a Creative Commons Attribution 4.0 International
+    License (CC-BY)
+- id: cc-by
+  text: Available under the Creative Commons Attribution (CC-BY) License v4.0
+- id: etalab
+  text: "Donn\xE9es ouvertes sous licence Etalab : http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html"
+- id: odc-odbl
+  text: Open Database License (ODbl) v1.0
+- id: cc-by-sa
+  text: CC-BY-SA (4.0)
+- id: cc-by-nc
+  text: Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License
+- id: cc-by-nc
+  text: CC-BY-NC
+- id: cc-by-nc
+  text: Creative Commons Attribution Share-Alike (CC-BY-SA)
+- id: etalab
+  text: Licence ETALAB
+- id: cc-by
+  text: "Die Nutzung ohne vertragliche Vereinbarung mit der Stadt Lauterbach ist nur
+    f\xFCr nicht kommerzielle Zwecke erlaubt. Die Daten dienen der Orientierung. F\xFCr
+    rechtsverbindliche Ausk\xFCnfte wenden Sie sich bitte an die Stadt Lauterbach.
+    Es besteht kein Anspruch auf Vollst\xE4ndigkeit. - Lizenz: cc-by - Creative Commons:
+    Namensnennung 3.0 Deutschland - https://creativecommons.org/licenses/by/3.0/de/
+    - Quellenvermerk: Source note required by license, but not given!"
+- id: cc-by-sa
+  text: cc-by-sa-3
+- id: cc-by
+  text: Licensed under CC-BY 4.0 - please use attribution statement included within
+    the "Credit" element.
+- id: cc-by-nd
+  text: CC-BY-ND-4.0
+- id: etalab-2.0
+  text: Licence ouvert V2.0 Etalab
+- id: cc-zero
+  text: CC0 1.0 Universal
+- id: cc-by
+  text: "Grundlage der Denkmalliste ist: Denkmaltopographie Bundesrepublik Deutschland,
+    Kulturdenkm\xE4ler in Rheinland-Pfalz, Kreis Mainz-Bingen. Band 18.1 Stadt Bingen,
+    Stadt Ingelheim, Gemeinde Budenheim, Verbandsgemeinden Gau-Algesheim, Heidesheim,
+    Rhein-Nahe, Sprendlingen-Gensingen (2007); Band 18.2 Verbandsgemeinden Bodenheim;
+    Guntersblum und Nieder-Olm (2011); Band 18.3 Verbandsgemeinde Nierstein-Oppenheim
+    (2011); bearbeitet von Dieter Krienke; Wernersche Verlagsgesellschaft Worms. Wir
+    danken Herrn R. Reith f\xFCr die Erlaubnis, die von ihm f\xFCr die Denkmaltopographie
+    angefertigten Bilder verwenden zu d\xFCrfen. Bei Interesse an diesen Fotos bitten
+    wir, Kontakt direkt mit Herrn Reith aufzunehmen: rainer.reith@t-online.de.  Die
+    der Fachbeh\xF6rde bekannten, verborgenen arch\xE4ologischen Denkm\xE4ler sind
+    wegen ihrer Gef\xE4hrdung nicht dargestellt. Der Schutz der unbeweglichen Kulturdenkm\xE4ler
+    entsteht bereits durch das Vorliegen der gesetzlichen Voraussetzungen des \xA7
+    3 Denkmalschutzgesetz (DSchG) und ist nicht von der Eintragung in die Denkmalliste
+    abh\xE4ngig, d.h. auch Objekte, die nicht in der Denkmalliste verzeichnet sind,
+    k\xF6nnen Denkm\xE4ler sein. Sowohl die Denkmalliste als auch die Karte erheben
+    keinen Anspruch auf Vollst\xE4ndigkeit. Hinweise, Korrekturen etc. erbitten wir
+    an landesdenkmalpflege@gdke.rlp.de, Fragen zur technischen Umsetzung an gis@gdke.rlp.de.
+    - Lizenz: cc-by-3.0 - Creative Commons: Namensnennung 3.0 Deutschland - http://creativecommons.org/licenses/by/3.0/de/"
+- id: cc-by-nc-nd
+  text: cc-by-nc-nd
+- id: etalab-2.0
+  text: Licence Ouverte V2 (Etalab)
+- id: etalab-2.0
+  text: Licence Ouverte V2.0 (Etalab)
+- id: cc-by-sa
+  text: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0
+    International (CC-BY-SA 4.0)
+- id: cc-by-nd
+  text: Creative Commons CC-BY ND 4.0
+- id: etalab
+  text: 'Licence ouverte / Open Licence: https://www.etalab.gouv.fr/licence-ouverte-open-licence'
+- id: cc-by
+  text: "Der Datenbestand wird unter der Lizenz CC-BY-3.0-Namensnennung ver\xF6ffentlicht
+    (vgl. https://creativecommons.org/licenses/by/3.0/de/). Als Urheber ist dabei
+    zu nennen: Amt f\xFCr Statistik Berlin-Brandenburg 2023"
+- id: cc-zero
+  text: Creative Commons Zero - No Rights Reserved (CC0 1.0)
+- id: cc-by-nc-nd
+  text: cc-by-nc-nd-4.0
+- id: etalab-2.0
+  text: Etalab-2.0
+- id: cc-by
+  text: http://dcat-ap.de/def/licenses/cc-by/4.0
+- id: odc-odbl
+  text: http://www.data.rennes-metropole.fr/notre-demarche/licence-odbl-ville-de-rennes-et-rennes-metropole/
+- id: cc-zero
+  text: Public Domain (CC0 1.0)
+- id: cc-by-sa
+  text: CC-BY-SA-3.0-IGO
+- id: cc-by-sa
+  text: Creative Commons Attribution Share-Alike http://www.opendefinition.org/licenses/cc-by-sa
+- id: cc-by-sa
+  text: CC-BY-SA-3.0
+- id: odc-odbl
+  text: odc-odbl-1.0
+- id: cc-zero
+  text: http://resources.geodata.se/kodlistor/metadata/anvandningsrestriktioner.xml#CC01.0
+- id: odc-odbl
+  text: Open Data Commons Open Database License (ODbL) 1.0
+- id: cc-by
+  text: CC-BY 3.0 NZ (Attribution)
+- id: odc-odbl
+  text: ODBL-1
+- id: cc-by
+  text: CC-BY-3.0-NZ
+- id: odc-odbl
+  text: https://opendatacommons.org/licenses/odbl/
+- id: cc-by
+  text: CC-by 4.0
+- id: etalab
+  text: "Base de donn\xE9es soumise aux conditions de la licence ouverte Etalab."
+- id: odc-odbl
+  text: "\u062A\u0631\u062E\u064A\u0635 \u0642\u0627\u0639\u062F\u0629 \u0627\u0644\u0628\u064A\u0627\u0646\u0627\u062A
+    \u0627\u0644\u0645\u0641\u062A\u0648\u062D \u0627\u0644\u062A\u0627\u0628\u0639
+    \u0644\u0645\u0634\u0627\u0639 \u0627\u0644\u0628\u064A\u0627\u0646\u0627\u062A
+    \u0627\u0644\u0645\u0641\u062A\u0648\u062D\u0629 (ODbL)"
+- id: etalab-2.0
+  text: "\xAB Licence Ouverte / Open Licence \xBB Version 2.0 (avril 2017) , d\xE9finie
+    par la mission Etalab plac\xE9e sous l'autorit\xE9 du Premier ministre. Utilisation
+    libre sous r\xE9serve de mentionner la source (\xAB Source : \xA9 EMR - Minist\xE8re
+    en charge de l\u2019environnement \xBB) et la date de sa derni\xE8re mise \xE0
+    jour."
+- id: cc-by
+  text: CC-BY-4.0 - Creative Commons Attribution 4.0
+- id: odc-odbl
+  text: dl-de/by-2-0_ODbL-1.0
+- id: odc-odbl
+  text: Licence ODBL
+- id: etalab
+  text: "<p style='margin-bottom: 0.0001pt; text-align: justify; line-height: normal;'><font
+    face='Arial' size='2'><b>Jeu de donn\xE9es sous\_</b><a href='http://ddata.over-blog.com/xxxyyy/4/37/99/26/licence/Licence-Ouverte-Open-Licence.pdf'
+    target='_blank'><span style='color: blue;'>licence ouverte Etalab</span></a>.\_</font></p><p
+    style='margin-bottom: 0.0001pt; text-align: justify; line-height: normal;'><i><span
+    style='color: dimgray;'><font face='Arial' size='2'>Les diff\xE9rentes utilisations
+    des donn\xE9es devront tenir compte des caract\xE9ristiques et des limites indiqu\xE9es
+    dans les m\xE9tadonn\xE9es (les fiches descriptives de la donn\xE9e) qui leur
+    sont associ\xE9es. Les utilisateurs sont mis particuli\xE8rement en garde contre
+    toute interpr\xE9tation, utilisation ou pr\xE9sentation des donn\xE9es \xE0 une
+    \xE9chelle plus grande que celle indiqu\xE9e dans les m\xE9tadonn\xE9es. Les informations
+    mises \xE0 disposition ne sont pas fournies en vue d'une utilisation particuli\xE8re,
+    et aucune garantie quant \xE0 leur aptitude \xE0 un usage particulier n'est apport\xE9e
+    par le service fournisseur.\_L'utilisateur appr\xE9cie notamment\_:\_l'opportunit\xE9
+    d'utiliser les donn\xE9es,\_la compatibilit\xE9 des fichiers avec ses syst\xE8mes
+    informatiques,\_l'ad\xE9quation des donn\xE9es \xE0 ses besoins,\_s'il dispose
+    de la comp\xE9tence suffisante pour utiliser les informations mises \xE0 disposition.</font></span></i></p>"
+- id: cc-zero
+  text: Creative Commons CCZero (CC0)
+- id: cc-by-nc
+  text: cc-by-nc
+- id: odc-odbl
+  text: "Pas de restriction d\u2019acc\xE8s public selon INSPIRE - Licence ODbL -
+    Mentions: \"Source ATMO Auvergne - Rh\xF4ne-Alpes \""
+- id: cc-by-nd
+  text: cc-by-nd-3.0
+- id: cc-by-nc
+  text: CC-BY-NC-3.0-AU
+- id: odc-odbl
+  text: https://spdx.org/licenses/ODbL-1.0.html#licenseText
+- id: cc-by
+  text: "Andmete kasutamisel kehtib litsents CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+    Palume viidata: \u201EEELIS (Eesti looduse infos\xFCsteem), Keskkonnaagentuur\u201C."
+- id: odc-odbl
+  text: Odbl
+- id: odc-odbl
+  text: "Datengrundlagen: ALKIS, ATKIS - Land NRW/Kataster\xE4mter (Datenlizenz Deutschland
+    - Zero - Version 2.0) und \xA9 OpenStreetMap - Mitwirkende (License: ODbL)"
+- id: cc-by-nc
+  text: Creative Commons Attribution - NonCommercial (CC-BY-NC)
+- id: cc-by
+  text: Creative Commons Attribution License (cc-by)
+- id: etalab
+  text: Licence Etalab
+- id: cc-by-nc-nd
+  text: "Licence CC-BY-NC-ND: Les donn\xE9es ne peuvent \xEAtre ni modifi\xE9es ni
+    valoris\xE9es commercialement."
+- id: odc-odbl
+  text: "Donn\xE9es sous licence \"Open Database License (ODbL)\" v1.0 (cf. https://opendatacommons.org/licenses/odbl/1-0/)"
+- id: cc-by-nc
+  text: CC-BY-NC 4.0
+- id: cc-by
+  text: "Use constraints: Data can be used freely given that the source is cited (following
+    creative commons license CC-BY). The source should be cited as: \u201CHELCOM HOLAS
+    3 Dataset (2023)\"."
+- id: cc-by-sa
+  text: CC-BY-SA 4.0 (Attribution-ShareAlike)
+- id: cc-by
+  text: cc-by-3.0-it
+- id: cc-by-nc
+  text: "Attribution, pas d\u2019utilisation commerciale (CC-BY-NC 4.0)"
+- id: cc-by
+  text: Creative Commons Attribution (CC-BY) 4.0 License
+- id: cc-by-nc
+  text: https://www.donneesquebec.ca/fr/licence/#CC-BY-NC-4.0
+- id: cc-by-nc
+  text: http://dcat-ap.de/def/licenses/cc-by-nc/4.0
+- id: cc-by-sa
+  text: Licence CC-By-SA
+- id: cc-by-sa
+  text: CC BY-SA 2.0
+- id: odc-odbl
+  text: ODC-ODbL
+- id: cc-zero
+  text: CC0-1.0 - Creative Commons Universal 1.0
+- id: cc-by-sa
+  text: CC-BY-SA-4.0 - Creative Commons Attribution Share-Alike 4.0
+- id: cc-by-sa
+  text: cc-by-sa-4
+- id: iodl-1.0
+  text: IODL-1.0
+- id: odc-odbl
+  text: https://opendatacommons.org/licenses/odbl/1-0/
+- id: odc-odbl
+  text: Licence ODbL
+- id: cc-by-nc-nd
+  text: 'Lizenz: cc-by-nc-nd - Creative Commons: Namensnennung - Keine kommerzielle
+    Nutzung - Keine Bearbeitungen 3.0 Deutschland - https://creativecommons.org/licenses/by-nc-nd/3.0/de/
+    - Quellenvermerk: Source note required by license, but not given!'
+- id: cc-by
+  text: "Use constraints: Data can be used freely given that the source is cited (following
+    creative commons license CC-BY). The source should be cited as: \u201CHELCOM HOLAS
+    3 Dataset (2023)."
+- id: cc-by-nc-sa
+  text: CC-BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
+- id: cc-zero
+  text: CC0 License
+- id: cc-by
+  text: Creative Commons Attribution 3.0 Australia, http://creativecommons.org/licenses/by/3.0/au/,
+    (c) State of Queensland (Department of Natural Resources and Mines) 2015
+- id: odc-by
+  text: Open Data Commons Attribution License (ODC-BY)
+- id: cc-by-nd
+  text: https://creativecommons.org/licenses/by-nd/4.0/deed.ja
+- id: cc-by-sa-nc
+  text: https://creativecommons.org/licenses/by-nc-sa/4.0
+- id: odc-odbl
+  text: Licence ODbl
+- id: cc-by
+  text: "Grundlage der Denkmalliste ist:  Denkmaltopographie Bundesrepublik Deutschland,
+    Kulturdenkm\xE4ler in Rheinland-Pfalz, Stadt Koblenz Band 3.2 Innenstadt. Bearbeitet
+    von Herbert Dellwing und Reinhard Kallenbach, Worms 2004 Band 3.3 Stadtteile.
+    Bearbeitet von Ulrike Weber mit Einbeziehung der erstmals 1996 separat ver\xF6ffentlichten
+    Stadtteile \u201ES\xFCdliche Vorstadt und Oberwerth\u201C, bearbeitet von Herbert
+    Dellwing (\u2020) und Udo Liessem, Worms 2013. Die der Fachbeh\xF6rde bekannten,
+    verborgenen arch\xE4ologischen Denkm\xE4ler sind wegen ihrer Gef\xE4hrdung nicht
+    dargestellt. Der Schutz der unbeweglichen Kulturdenkm\xE4ler entsteht bereits
+    durch das Vorliegen der gesetzlichen Voraussetzungen des \xA7 3 Denkmalschutzgesetz
+    (DSchG) und ist nicht von der Eintragung in die Denkmalliste abh\xE4ngig, d.h.
+    auch Objekte, die nicht in der Denkmalliste verzeichnet sind, k\xF6nnen Denkm\xE4ler
+    sein. Sowohl die Denkmalliste als auch die Karte erheben keinen Anspruch auf Vollst\xE4ndigkeit.
+    Wir danken Herrn R. Reith f\xFCr die Erlaubnis, die von ihm f\xFCr die Denkmaltopographie
+    angefertigten Bilder verwenden zu d\xFCrfen. Bei Interesse an diesen Fotos bitten
+    wir, Kontakt direkt mit Herrn Reith aufzunehmen: rainer.reith@t-online.de. Hinweise,
+    Korrekturen etc. erbitten wir an landesdenkmalpflege@gdke.rlp.de, Fragen zur technischen
+    Umsetzung an gis@gdke.rlp.de. - Lizenz: cc-by-3.0 - Creative Commons: Namensnennung
+    3.0 Deutschland - http://creativecommons.org/licenses/by/3.0/de/"
+- id: cc-by
+  text: CC-BY-2.5
+- id: cc-by
+  text: CC-BY-GEO-RER
+- id: odc-pddl
+  text: PDDL-1.0
+- id: cc-by
+  text: CC-BY 4.0 applies.
+- id: etalab
+  text: Licence ouverte Etalab
+- id: cc-by-sa
+  text: CC-BY-SA 4.0
+- id: cc-by
+  text: cc-by-3
+- id: cc-by-nc-sa
+  text: CC-BY-NC-SA-3.0
+- id: odc-pddl
+  text: ODC-PDDL-1.0
+- id: odc-pddl
+  text: https://opendatacommons.org/licenses/pddl/
+- id: cc-by-nc-sa
+  text: CC-BY-NC-SA
+- id: odc-odbl
+  text: Open Database License (ODBL) V1.0
+- id: cc-by
+  text: CC-BY 4.0 applies
+- id: odc-pddl
+  text: http://opendefinition.org/licenses/odc-pddl/
+- id: etalab-2.0
+  text: "P\xE9rim\xE8tre INSPIRE - Open Data (Etalab V.2.0)"
+- id: etalab
+  text: Licence ouverte (ETALAB)
+- id: etalab
+  text: Licence ouverte (https://www.etalab.gouv.fr/licence-ouverte-open-licence)
+- id: etalab-2.0
+  text: "Licence ouverte \"Etalab\" (v2) - cf. document associ\xE9"
+- id: etalab
+  text: "Licence ouverte \"Etalab\" (octobre 2011) - cf. document associ\xE9"
+- id: etalab
+  text: "Donn\xE9es sous Licence ouverte / Open licence : http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html"
+- id: odc-odbl
+  text: 'conditions unknown - Lizenz: odc-odbl-1.0 - Open Data Commons Open Database
+    License (ODbL) - http://opendatacommons.org/licenses/odbl/1.0/'
+- id: etalab
+  text: "<span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next
+    W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+    font-size: 16px;'>Les donn\xE9es sont diffus\xE9es selon les termes de la licence
+    ouverte Etalab 2.0</span>"
+- id: etalab
+  text: "<b>Jeu de donn\xE9es sous\_<a href='http://ddata.over-blog.com/xxxyyy/4/37/99/26/licence/Licence-Ouverte-Open-Licence.pdf'
+    target='_blank'>licence ouverte Etalab</a>.</b><div><i><font color='#696969'><span
+    style='line-height: normal; text-align: justify;'><font size='2'>Les diff\xE9rentes
+    utilisations des donn\xE9es devront tenir compte des caract\xE9ristiques et des
+    limites indiqu\xE9es dans les m\xE9tadonn\xE9es (les fiches descriptives de la
+    donn\xE9e) qui leur sont associ\xE9es. Les utilisateurs sont mis particuli\xE8rement
+    en garde contre toute interpr\xE9tation, utilisation ou pr\xE9sentation des donn\xE9es
+    \xE0 une \xE9chelle plus grande que celle indiqu\xE9e dans les m\xE9tadonn\xE9es.
+    Les informations mises \xE0 disposition ne sont pas fournies en vue d'une utilisation
+    particuli\xE8re, et aucune garantie quant \xE0 leur aptitude \xE0 un usage particulier
+    n'est apport\xE9e par le service fournisseur.\_</font></span><span style='line-height:
+    normal; text-align: justify;'><font size='2'>L'utilisateur appr\xE9cie notamment\_:\_</font></span><span
+    style='font-size: small; line-height: normal; text-indent: -18pt;'>l'opportunit\xE9
+    d'utiliser les donn\xE9es,\_</span><span style='font-size: small; line-height:
+    normal; text-indent: -18pt;'>la compatibilit\xE9 des fichiers avec ses syst\xE8mes
+    informatiques,\_</span><span style='font-size: small; line-height: normal; text-indent:
+    -18pt;'>l'ad\xE9quation des donn\xE9es \xE0 ses besoins,\_</span><span style='line-height:
+    normal; text-indent: -18pt;'><font size='2'>s'il dispose de la comp\xE9tence suffisante
+    pour utiliser les informations mises \xE0 disposition.</font></span></font></i></div>"
+- id: iodl-2.0
+  text: IODL2
+- id: etalab
+  text: "<span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next
+    W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+    font-size: 16px;'>Ces donn\xE9es sont sous licence ouverte (</span><a href='https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf'
+    rel='nofollow ugc' style='color: rgb(0, 121, 193); text-decoration-line: none;
+    font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir
+    Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px;'
+    target='_blank'>plus d'information sur la licence ouverte</a><span style='font-family:
+    &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;,
+    Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px;'>)</span>"
+- id: iodl-1.0
+  text: iodl1
+- id: iodl-2.0
+  text: Italian Open Data License v2.0 (IODL)
+- id: etalab
+  text: etalab-open-license
+- id: etalab-2.0
+  text: Licence Ouverte v2.0 (Etalab) ou Open Database License (ODbL) - suivant l'enregistrement
+    (cf. info dans colonne "Licence")
+- id: etalab
+  text: Licence Ouverte https://www.etalab.gouv.fr/licence-ouverte-open-licence
+- id: etalab
+  text: ETALAB
+- id: etalab
+  text: Etalab
+- id: iodl-1.0
+  text: Italian Open Data License v1.0
+- id: etalab
+  text: https://www.inpi.fr/sites/default/files/licence_donnees_rncs_-_homologuee_par_etalab.pdf
+- id: etalab-2.0
+  text: licence etalab-2.0
+- id: etalab-2.0
+  text: "Donn\xE9es sous licence ouverte Etalab v2"

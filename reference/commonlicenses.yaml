@@ -1,0 +1,76 @@
+- id: cc-by
+  name: Creative Commons Attribution
+  url: 
+- id: cc-by-sa-nc
+  name: Creative Commons Attribution Share-Alike Non-Commercial
+- id: cc-by-nc
+  name: Creative Commons Attribution Non-Commercial
+  url: 
+- id: cc-by-nc-sa
+  name: Creative Commons Attribution Non-Commercial Share-Alike
+  url: 
+- id: cc-nc
+  name: Creative Commons Non-Commercial
+  url: 
+- id: cc-nc-nd
+  name: Creative Commons Non-Commercial Non-Derivatives
+  url: 
+- id: cc-by-nd
+  name: Creative Commons Attribution Non-Derivatives
+  url: 
+- id: cc-by-nc-nd
+  name: Creative Commons Attribution Non-Commercial Non-Derivatives
+  url: 
+- id: cc-by-sa
+  name: Creative Commons Attribution Share-alike
+  url:
+- id: cc-zero
+  name: Creative Commons CCZero
+  url: 
+- id: uk-ogl
+  name: UK Open Government Licence (OGL)
+  url:
+- id: uk-ncgl
+  name: Non-Commercial Government Licence for public sector information
+  url: 
+- id: odc-by
+  name: Open Data Commons Attribution License
+  url:
+- id: odc-odbl
+  name: Open Data Commons Open Database License v1.0
+  url: 
+- id: odc-pddl
+  name: Open Data Commons Public Domain Dedication and Licence (PDDL)
+  url: 
+- id: public-domain
+  name: Public domain
+  url: 
+- id: etalab-2.0
+  name: Etalab Open License 2.0
+  url: 
+- id: etalab
+  name: Etalab Open License
+  url:
+- id: dl-de-zero-2.0
+  name: Datenlizenz Deutschland – Zero – Version 2.0
+  url:
+- id: dl-de-by-2.0
+  name: Datenlizenz Deutschland - Namensnennung - 2.0
+  url: 
+- id: us-pd
+  name: U.S. Government Works
+  url: 
+- id: unspecified
+  name: License or usage terms/rights not specified
+  url: 
+- id: ogl-canada-2.0
+  name: Open Government License Canada 2.0
+  url:
+- id: iodl-2.0
+  name: Italian Open Government License 2.0
+  url:
+- id: iodl-1.0
+  name: Italian Open Government License
+  url:
+
+
