@@ -1,7 +1,7 @@
 # cdi-licensemapper
 Data licenses mapping experiments, code and data
 
-This repositry is the part of the Common Data Index project (https://github.com/commondataio)
+This repository is the part of the Common Data Index project (https://github.com/commondataio)
 
 This repository includes data dumps from Common Data Index database with frequency lists of data licenses ids, urls and names.
 
