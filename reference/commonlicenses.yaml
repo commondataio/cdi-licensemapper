@@ -72,5 +72,11 @@
 - id: iodl-1.0
   name: Italian Open Government License
   url:
+- id: copyright
+  name: Copyright
+- id: gpl-2.0
+  name: GPL 2.0
+- id: gpl-3.0
+  name: GPL 3.0
 
 

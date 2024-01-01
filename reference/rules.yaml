@@ -1554,3 +1554,85 @@
   text: licence etalab-2.0
 - id: etalab-2.0
   text: "Donn\xE9es sous licence ouverte Etalab v2"
+- id: cc-by-nc-nd
+  text: "Atribuci\xF3n-NoComercial-SinDerivadas 3.0 Espa\xF1a"
+- id: cc-by-nc-nd
+  text: http://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+- id: cc-by-nc-nd
+  text: Attribution-NonCommercial-NoDerivatives 4.0 Internacional
+- id: cc-by-nc-nd
+  text: Attribution-NonCommercial-NoDerivatives 4.0 International
+- id: cc-by-nc-nd
+  text: Reconocimiento - No comercial - Sin obra derivada (by-nc-nd)
+- id: cc-by-nc-nd
+  text: Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International
+    (CC BY-NC-ND 4.0)
+- id: cc-by-nc-nd
+  text: by-nc-nd
+- id: cc-by-nc-nd
+  text: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+    (CC BY-NC-ND 4.0) ; openAccess
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International Public License
+- id: cc-by
+  text: Attribution 4.0 International
+- id: cc-by
+  text: Creative Commons Attribution 4.0 International (CC BY 4.0) ; openAccess
+- id: cc-by-nc-nd
+  text: "Atribuci\xF3n-NoComercial-SinDerivadas 4.0 Espa\xF1a"
+- id: cc-by-nc
+  text: Creative Commons - Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+- id: cc-by-nc-sa
+  text: Reconocimiento - No comercial - Compartir igual (by-nc-sa)
+- id: cc-by
+  text: Attribution 4.0 International (CC BY 4.0)
+- id: cc-by-nc-nd
+  text: Creative Commons BY-NC-ND 4.0-US
+- id: cc-by-nc-nd
+  text: Attribution-NonCommercial-NoDerivs 3.0 United States
+- id: cc-by-nc
+  text: https://creativecommons.org/licenses/by-nc/4.0/deed.es
+- id: cc-by
+  text: 'Rights covered by the standard CC-BY 4.0 licence: https://creativecommons.org/licenses/by/4.0/'
+- id: cc-by-nc-sa
+  text: Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International
+    (CC BY-NC-SA 4.0)
+- id: cc-by
+  text: "Atribuci\xF3n 3.0 Espa\xF1a"
+- id: cc-by-nc-nd
+  text: http://creativecommons.org/licenses/by-nc-nd/4.0/
+- id: cc-by-nc-nd
+  text: http://creativecommons.org/licenses/by-nc-nd/3.0/es/
+- id: cc-by-nc-sa
+  text: http://creativecommons.org/licenses/by-nc-sa/4.0/
+- id: cc-zero
+  text: http://creativecommons.org/publicdomain/zero/1.0/
+- id: copyright
+  text: http://rightsstatements.org/page/InC/1.0/?language=en
+- id: copyright
+  text: http://rightsstatements.org/vocab/InC/1.0/
+- id: copyright
+  text: http://www.rioxx.net/licenses/all-rights-reserved
+- id: copyright
+  text: This publication is copyrighted. You may download, display and print it for
+    Your own personal use. Commercial use is prohibited.
+- id: copyright
+  text: In Copyright
+- id: copyright
+  text: Reserva de todos los derechos
+- id: copyright
+  text: All Rights Reserved.
+- id: cc-by-nc-nd
+  text: Attribution-NonCommercial-NoDerivs 3.0 Spain
+- id: cc-zero
+  text: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+- id: public-domain
+  text: http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations
+- id: gpl-3.0
+  text: GPL 3.0 or later
+- id: cc-by-sa
+  text: CC-BY-SA-4.0-ES
+- id: cc-by-sa-nc
+  text: CC BY-NC-SA 4.0
+- id: etalab-2.0
+  text: https://spdx.org/licenses/etalab-2.0.html
