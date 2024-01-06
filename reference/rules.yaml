@@ -1636,3 +1636,21 @@
   text: CC BY-NC-SA 4.0
 - id: etalab-2.0
   text: https://spdx.org/licenses/etalab-2.0.html
+- id: cc-by-nc-nd
+  text: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+- id: uk-ogl
+  text: Open Government License 3.0 (UK)
+- id: cc-by
+  text: cc_by_4
+- id: cc-by
+  text: cc_by
+- id: cc-by-nc
+  text: cc_by_nc_4
+- id: cc-by-nd
+  text: cc_by_nd_4
+- id: copyright
+  text: all_rights_reserved
+- id: cc-by-sa
+  text: cc_by_sa_4
+- id: cc-by-nd
+  text: cc_by_nd
